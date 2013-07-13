@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^promotravel\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.promotravel\.com\.br$
+RewriteRule ^teste$ "http\:\/\/promotravel\.alwaysdata\.net\/" [R=302,L]
+

@@ -1,0 +1,1968 @@
+<!DOCTYPE html><!--[if lt IE 7]> <html class="ie6"> <![endif]--><!--[if IE 7]> <html class="ie7"> <![endif]--><!--[if IE 8]> <html class="ie8"> <![endif]--><!--[if IE 9]> <html class="ie9"> <![endif]--><!--[if gt IE 9]><!--><html><!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+<title>Decolar.com . Resultados de Vôos</title>
+<meta name="robots" content="noindex,nofollow">
+<!--socialmedia-metas-->
+<meta property="og:title" content="Encontrei uma excelente oferta para Manaus no Decolar.com!">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www.decolar.com/passagens-aereas/cwb/mao/passagens-aereas-para-manaus-saindo-de-curitiba">
+<meta property="og:image" content="http://br.staticontent.com/images/despegar/socialMedia/vuelos2br.jpg">
+<meta property="og:site_name" content="decolar.com">
+<meta property="og:description" content="Todos os voos com o melhor preço garantido, estão só no Decolar.com!">
+<meta property="og:email" content="info@decolar.com">
+<meta property="fb:page_id" content="275649665391">
+<meta property="fb:admins" content="1457496781, 100002558370345, 100003502565006">
+<!--socialmedia-metas END-->
+<link rel="stylesheet" href="http://br.staticontent.com/css-versioned/1.11.1/despegar/pkg/main.css">
+<!--header-css-->
+<link type="text/css" rel="stylesheet" href="http://br.staticontent.com/nibbler-css-versioned/21.0.0/nibbler/despegar/pkg/header.css">
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="http://br.staticontent.com/nibbler-css-versioned/21.0.0/nibbler/despegar/pkg/headerie7.css"/>
+<![endif]-->
+<!--header-css END-->
+<link rel="stylesheet" href="http://br.staticontent.com/shop/flights/css-versioned/1.2.6/flights-web/despegar/pkg/results.css">
+<!--footer-css-->
+<link type="text/css" rel="stylesheet" href="http://br.staticontent.com/nibbler-css-versioned/21.0.0/nibbler/despegar/pkg/footer.css">
+<!--footer-css END-->
+<link rel="stylesheet" href="http://br.staticontent.com/css-versioned/1.11.1/despegar/pkg/flights-web-results.css">
+<!--socialmedia-css-->
+<link type="text/css" rel="stylesheet" href="http://br.staticontent.com/nibbler-css-versioned/21.0.0/nibbler/despegar/pkg/socialmedia.css">
+<!--socialmedia-css END-->
+<script id="facebook-jssdk" src="//connect.facebook.net/pt_BR/all.js#xfbml=1"></script><script language="JavaScript">
+<!--
+_tsbp_ = { ba : "X-TS-BP-Action", bh : "X-TS-AJAX-Request"};
+//-->
+</script>
+<script language="JavaScript">
+<!--
+if(typeof _csrf_=="undefined"){_csrf_={}}if(typeof _tsbp_=="undefined"){_tsbp_={}}if(typeof _csrf_.vh=="undefined"){_csrf_.vh=[]}if(typeof _csrf_.vu=="undefined"){_csrf_.vu=[/.*/]}(function(c,m){var l=function(e,b){if(e!==null&&b!==null){if(e=="1"){window.location.href=b;return true}else{if(e=="2"){f(b);return true}else{if(e=="3"){document.write(b);document.close();return true}}}}return false};var i=function(b){var s=b;if(typeof b.target!="undefined"){s=b.target;if(s.readyState==4){s.removeEventListener("readystatechange",i,false)}}if(s.readyState==4){var p=s.getResponseHeader(m.ba);var e=s.responseText;return l(p,e)}return false};var f=function(b){if(window.document.body){var s=document.getElementById("_tsbp_tId");if(!s){var p=document.createElement("div");p.style.display="none";window.document.body.insertBefore(p,window.document.body.firstChild);var e="background-color: #dddddd; ";e+="border: 5px solid red; padding: 5px; ";e+="position: fixed; left: 6px; top: 10px; height: auto; width: auto; ";e+="overflow: hidden; z-index: 999999;";p.innerHTML='<div id="_tsbp_aId" style="'+e+'"><div id=\'_tsbp_tId\'></div><div style="height: 10px; font-weight: bold; margin: 10px 10px 10px 10px; text-align: right;"><a href="javascript: void(0);" onclick="document.getElementById(\'_tsbp_aId\').parentNode.style.display = \'none\';"><span><span>[Close this message]</span></span></a></div></div>';s=document.getElementById("_tsbp_tId")}s.innerHTML=b;document.getElementById("_tsbp_aId").parentNode.style.display=""}};var q=function(b){return b.split("&").join("&amp;").split("<").join("&lt;").split('"').join("&quot;")};var k=function(e){if(/^\w+:/.test(e)===false){var b=document.createElement("div");b.innerHTML='<a href="'+q(e)+'">.</a>';e=b.firstChild.href}return e};var h=function(s,b){var v=s;var t=k(v);if(v!=null&&v!=""){if(o(t)&&d(t)&&n(t)&&(-1==v.indexOf(c.pn+"="+c.pv))){var p=v.indexOf("#");var w;if(p!=-1){w=v.substring(p);v=v.substring(0,p)}var e=v.indexOf("?");if(e==-1){if(b==="POST"||b==="post"){v+="?"}else{return s}}if(v.search(/\?$/)==-1){v+="&"}v+=c.pn+"="+c.pv;if(p!=-1){v+=w}}}return v};var d=function(t){var s=window.document.createElement("a");s.href=t;if(typeof s.pathname=="undefined"){return true}u=s.pathname;if(u===""||u[0]!=="/"){u="/"+u}for(var b=0;b<c.vu.length;b++){try{if(u.match(c.vu[b])){return true}}catch(p){return true}}return false};var n=function(v){var p=function(z){var A=window.document.createElement("a");A.href=z;var w="-";try{w=A.host;if(!w){w=window.location.hostname}if(w.match(/:\d+$/)){var y=window.location.hostname;if(!y.match(/:\d+$/)){w=w.replace(/:\d+$/,"")}}}catch(x){}return w};var t=p(v);if(true&&window&&window.location&&window.location.hostname&&t===window.location.hostname){return true}for(var b=0;b<c.vh.length;b++){try{if(t.match(c.vh[b])){return true}}catch(s){}}return false};var o=function(e){var b=false;if(e.match(/^http/i)||e.substring(0,1)=="/"||(e.indexOf("://")==-1&&!e.match(/^urn:/i))){b=true}if(e.match(/^mailto:/i)){b=false}return b};var a=function(w){if(!w||typeof w.elements=="undefined"){return}for(var s=0;s<w.elements.length;s++){if(w.elements[s].name===c.pn){return}}var v=(w.attributes.action!=null)?w.attributes.action.value:"";try{v.match(/./)}catch(x){v=window.location.href}if((!v)||(v===null)||(v===undefined)||(v.match(/^\s*$/))){v=window.location.href}v=k(v);if(d(v)&&o(v)&&n(v)){var t=(w.attributes.method!=null)?w.attributes.method.value:"";if(c.f==0&&t.toLowerCase()=="post"){try{var p=v.indexOf("#");var y="";if(p!=-1){y=v.substring(p);v=v.substring(0,p)}if(v.indexOf("?")==-1){v+="?"}v=h(v,"GET");w.attributes.action.value=v+y}catch(x){}return}var b=document.createElement("input");b.type="hidden";b.name=c.pn;b.value=c.pv;w.appendChild(b)}};var r=function(){var p=window.document.getElementsByTagName("a");for(var t=0;t<p.length;t++){try{var s=p[t].innerHTML;var x=h(p[t].getAttribute("href",2),"GET");if(x!=null&&x!=""){p[t].setAttribute("href",x);if(p[t].innerHTML!=s){p[t].innerHTML=s}}}catch(w){}}var b=window.document.getElementsByTagName("form");for(var v=0;v<b.length;v++){a(b[v])}};var g=function(){var b=window.XMLHttpRequest;function e(){this.base=b?new b:new window.ActiveXObject("Microsoft.XMLHTTP")}function p(){return new e}p.prototype=e.prototype;p.UNSENT=0;p.OPENED=1;p.HEADERS_RECEIVED=2;p.LOADING=3;p.DONE=4;p.prototype.status=0;p.prototype.statusText="";p.prototype.readyState=p.UNSENT;p.prototype.responseText="";p.prototype.responseXML=null;p.prototype.onsend=null;p.url=null;p.onreadystatechange=null;p.prototype.open=function(y,v,w,t,x){var s=this;this.url=v;if(c.pn){this.url=h(v,y)}this.base.onreadystatechange=function(){try{s.status=s.base.status}catch(z){}try{s.statusText=s.base.statusText}catch(z){}try{s.readyState=s.base.readyState}catch(z){}try{s.responseText=s.base.responseText}catch(z){}try{s.responseXML=s.base.responseXML}catch(z){}if(m.ba&&m.bh&&i(this)){return}if(s.onreadystatechange!=null){s.onreadystatechange.apply(this,arguments)}};this.base.open(y,this.url,w,t,x)};p.prototype.send=function(s){if(m.ba&&m.bh){this.base.setRequestHeader(m.bh,"true")}this.base.send(s)};p.prototype.abort=function(){this.base.abort()};p.prototype.getAllResponseHeaders=function(){return this.base.getAllResponseHeaders()};p.prototype.getResponseHeader=function(s){return this.base.getResponseHeader(s)};p.prototype.setRequestHeader=function(s,t){return this.base.setRequestHeader(s,t)};window.XMLHttpRequest=p};try{if(navigator.appName=="Microsoft Internet Explorer"){g()}else{if(c.pn){XMLHttpRequest.prototype._open=XMLHttpRequest.prototype.open;XMLHttpRequest.prototype.open=function(t,e,p,b,s){arguments[1]=h(e,t);this._open.apply(this,arguments)}}if(m.ba&&m.bh){XMLHttpRequest.prototype._tsbp_s=XMLHttpRequest.prototype.__lookupSetter__("onreadystatechange");if(typeof XMLHttpRequest.prototype._tsbp_s!="undefined"){XMLHttpRequest.prototype.__defineSetter__("onreadystatechange",function(e){var b=function(){if(i(this)){return}e()};this._tsbp_s(b)})}XMLHttpRequest.prototype._send=XMLHttpRequest.prototype.send;XMLHttpRequest.prototype.send=function(b){this.setRequestHeader(m.bh,"true");if((XMLHttpRequest.prototype._tsbp_s==null)&&(typeof this.addEventListener==="function")){this.addEventListener("readystatechange",i,false)}this._send.apply(this,arguments)}}}}catch(j){}if(c.pv!=undefined){if(!!window.addEventListener){window.addEventListener("load",r,false)}else{if(!!window.attachEvent){window.attachEvent("onload",r)}else{window.onload=r}}}delete _csrf_;delete _tsbp_})(_csrf_,_tsbp_);
+//-->
+</script>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+<style type="text/css" id="currency-style"> .results .BRL{ display: block; } </style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}
+.fb_invisible{display:none}
+.fb_reset{background:none;border-spacing:0;border:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}
+.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}
+.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px}
+.fb_dialog_content{background:#fff;color:#333}
+.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px;top:8px\9;right:7px\9}
+.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}
+.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}
+.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}
+.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}
+.fb_dialog_loader{background-color:#f2f2f2;border:1px solid #606060;font-size:24px;padding:20px}
+.fb_dialog_top_left,
+.fb_dialog_top_right,
+.fb_dialog_bottom_left,
+.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}
+.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}
+.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}
+.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}
+.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}
+.fb_dialog_vert_left,
+.fb_dialog_vert_right,
+.fb_dialog_horiz_top,
+.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}
+.fb_dialog_vert_left,
+.fb_dialog_vert_right{width:10px;height:100%}
+.fb_dialog_vert_left{margin-left:-10px}
+.fb_dialog_vert_right{right:0;margin-right:-10px}
+.fb_dialog_horiz_top,
+.fb_dialog_horiz_bottom{width:100%;height:10px}
+.fb_dialog_horiz_top{margin-top:-10px}
+.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}
+.fb_dialog_iframe{line-height:0}
+.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3b5998;color:#fff;font-size:14px;font-weight:bold;margin:0}
+.fb_dialog_content .dialog_title > span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif)
+no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}
+body.fb_hidden{-webkit-transform:none;height:100%;margin:0;left:-10000px;overflow:visible;position:absolute;top:-10000px;width:100%
+}
+.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yO/r/_j03izEX40U.gif)
+white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}
+.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}
+#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}
+#fb-root #fb_dialog_ipad_overlay.hidden{display:none}
+.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}
+.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0 0, 0 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}
+.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%
+}
+.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px
+}
+.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px
+}
+.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0 0, 0 100%, from(#4966A6),
+color-stop(0.5, #355492), to(#2A4887));border:1px solid #29447e;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset,
+rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}
+.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}
+.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}
+.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}
+.fb_dialog_content .dialog_footer{background:#f2f2f2;border:1px solid #555;border-top-color:#ccc;height:40px}
+#fb_dialog_loader_close{float:left}
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
+.fb_iframe_widget{position:relative;display:-moz-inline-block;display:inline-block}
+.fb_iframe_widget iframe{position:absolute}
+.fb_iframe_widget_lift{z-index:1}
+.fb_iframe_widget span{position:relative;display:inline-block;vertical-align:text-bottom;text-align:justify}
+.fb_hide_iframes iframe{position:relative;left:-10000px}
+.fb_iframe_widget_loader{position:relative;display:inline-block}
+.fb_iframe_widget_fluid{display:inline}
+.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}
+.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_button_simple,
+.fb_button_simple_rtl{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yH/r/eIpbnVKI9lR.png);background-repeat:no-repeat;cursor:pointer;outline:none;text-decoration:none}
+.fb_button_simple_rtl{background-position:right 0}
+.fb_button_simple .fb_button_text{margin:0 0 0 20px;padding-bottom:1px}
+.fb_button_simple_rtl .fb_button_text{margin:0 10px 0 0}
+a.fb_button_simple:hover .fb_button_text,
+a.fb_button_simple_rtl:hover .fb_button_text,
+.fb_button_simple:hover .fb_button_text,
+.fb_button_simple_rtl:hover .fb_button_text{text-decoration:underline}
+.fb_button,
+.fb_button_rtl{background:#29447e url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/FGFbc80dUKj.png);background-repeat:no-repeat;cursor:pointer;display:inline-block;padding:0 0 0 1px;text-decoration:none;outline:none}
+.fb_button .fb_button_text,
+.fb_button_rtl .fb_button_text{background:#5f78ab url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/FGFbc80dUKj.png);border-top:solid 1px #879ac0;border-bottom:solid 1px #1a356e;color:#fff;display:block;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-weight:bold;padding:2px 6px 3px 6px;margin:1px 1px 0 21px;text-shadow:none}
+a.fb_button,
+a.fb_button_rtl,
+.fb_button,
+.fb_button_rtl{text-decoration:none}
+a.fb_button:active .fb_button_text,
+a.fb_button_rtl:active .fb_button_text,
+.fb_button:active .fb_button_text,
+.fb_button_rtl:active .fb_button_text{border-bottom:solid 1px #29447e;border-top:solid 1px #45619d;background:#4f6aa3;text-shadow:none}
+.fb_button_xlarge,
+.fb_button_xlarge_rtl{background-position:left -60px;font-size:24px;line-height:30px}
+.fb_button_xlarge .fb_button_text{padding:3px 8px 3px 12px;margin-left:38px}
+a.fb_button_xlarge:active{background-position:left -99px}
+.fb_button_xlarge_rtl{background-position:right -268px}
+.fb_button_xlarge_rtl .fb_button_text{padding:3px 8px 3px 12px;margin-right:39px}
+a.fb_button_xlarge_rtl:active{background-position:right -307px}
+.fb_button_large,
+.fb_button_large_rtl{background-position:left -138px;font-size:13px;line-height:16px}
+.fb_button_large .fb_button_text{margin-left:24px;padding:2px 6px 4px 6px}
+a.fb_button_large:active{background-position:left -163px}
+.fb_button_large_rtl{background-position:right -346px}
+.fb_button_large_rtl .fb_button_text{margin-right:25px}
+a.fb_button_large_rtl:active{background-position:right -371px}
+.fb_button_medium,
+.fb_button_medium_rtl{background-position:left -188px;font-size:11px;line-height:14px}
+a.fb_button_medium:active{background-position:left -210px}
+.fb_button_medium_rtl{background-position:right -396px}
+.fb_button_text_rtl,
+.fb_button_medium_rtl .fb_button_text{padding:2px 6px 3px 6px;margin-right:22px}
+a.fb_button_medium_rtl:active{background-position:right -418px}
+.fb_button_small,
+.fb_button_small_rtl{background-position:left -232px;font-size:10px;line-height:10px}
+.fb_button_small .fb_button_text{padding:2px 6px 3px;margin-left:17px}
+a.fb_button_small:active,
+.fb_button_small:active{background-position:left -250px}
+.fb_button_small_rtl{background-position:right -440px}
+.fb_button_small_rtl .fb_button_text{padding:2px 6px;margin-right:18px}
+a.fb_button_small_rtl:active{background-position:right -458px}
+.fb_share_count_wrapper{position:relative;float:left}
+.fb_share_count{background:#b0b9ec none repeat scroll 0 0;color:#333;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;text-align:center}
+.fb_share_count_inner{background:#e8ebf2;display:block}
+.fb_share_count_right{margin-left:-1px;display:inline-block}
+.fb_share_count_right .fb_share_count_inner{border-top:solid 1px #e8ebf2;border-bottom:solid 1px #b0b9ec;margin:1px 1px 0 1px;font-size:10px;line-height:10px;padding:2px 6px 3px;font-weight:bold}
+.fb_share_count_top{display:block;letter-spacing:-1px;line-height:34px;margin-bottom:7px;font-size:22px;border:solid 1px #b0b9ec}
+.fb_share_count_nub_top{border:none;display:block;position:absolute;left:7px;top:35px;margin:0;padding:0;width:6px;height:7px;background-repeat:no-repeat;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yU/r/bSOHtKbCGYI.png)}
+.fb_share_count_nub_right{border:none;display:inline-block;padding:0;width:5px;height:10px;background-repeat:no-repeat;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yX/r/i_oIVTKMYsL.png);vertical-align:top;background-position:right 5px;z-index:10;left:2px;margin:0 2px 0 0;position:relative}
+.fb_share_no_count{display:none}
+.fb_share_size_Small .fb_share_count_right .fb_share_count_inner{font-size:10px}
+.fb_share_size_Medium .fb_share_count_right .fb_share_count_inner{font-size:11px;padding:2px 6px 3px;letter-spacing:-1px;line-height:14px}
+.fb_share_size_Large .fb_share_count_right .fb_share_count_inner{font-size:13px;line-height:16px;padding:2px 6px 4px;font-weight:normal;letter-spacing:-1px}
+.fb_share_count_hidden .fb_share_count_nub_top,
+.fb_share_count_hidden .fb_share_count_top,
+.fb_share_count_hidden .fb_share_count_nub_right,
+.fb_share_count_hidden .fb_share_count_right{visibility:hidden}
+.fb_connect_bar_container div,
+.fb_connect_bar_container span,
+.fb_connect_bar_container a,
+.fb_connect_bar_container img,
+.fb_connect_bar_container strong{background:none;border-spacing:0;border:0;direction:ltr;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal;vertical-align:baseline}
+.fb_connect_bar_container{position:fixed;left:0 !important;right:0 !important;height:42px !important;padding:0 25px !important;margin:0 !important;vertical-align:middle !important;border-bottom:1px solid #333 !important;background:#3b5998 !important;z-index:99999999 !important;overflow:hidden !important}
+.fb_connect_bar_container_ie6{position:absolute;top:expression(document.compatMode=="CSS1Compat"? document.documentElement.scrollTop+"px":body.scrollTop+"px")}
+.fb_connect_bar{position:relative;margin:auto;height:100%;width:100%;padding:6px 0 0 0 !important;background:none;color:#fff !important;font-family:"lucida grande", tahoma, verdana, arial, sans-serif !important;font-size:13px !important;font-style:normal !important;font-variant:normal !important;font-weight:normal !important;letter-spacing:normal !important;line-height:1 !important;text-decoration:none !important;text-indent:0 !important;text-shadow:none !important;text-transform:none !important;white-space:normal !important;word-spacing:normal !important}
+.fb_connect_bar a:hover{color:#fff}
+.fb_connect_bar .fb_profile img{height:30px;width:30px;vertical-align:middle;margin:0 6px 5px 0}
+.fb_connect_bar div a,
+.fb_connect_bar span,
+.fb_connect_bar span a{color:#bac6da;font-size:11px;text-decoration:none}
+.fb_connect_bar .fb_buttons{float:right;margin-top:7px}
+.fb_edge_widget_with_comment{position:relative;*z-index:1000}
+.fb_edge_widget_with_comment span.fb_edge_comment_widget{position:absolute}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget{z-index:1}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget .FB_Loader{left:0;top:1px;margin-top:6px;margin-left:0;background-position:50% 50%;background-color:#fff;height:150px;width:394px;border:1px #666 solid;border-bottom:2px solid #283e6c;z-index:1}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget.dark .FB_Loader{background-color:#000;border-bottom:2px solid #ccc}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget.siderender
+.FB_Loader{margin-top:0}
+.fbpluginrecommendationsbarleft,
+.fbpluginrecommendationsbarright{position:fixed !important;bottom:0;z-index:999}
+/* @noflip */
+.fbpluginrecommendationsbarleft{left:10px}
+/* @noflip */
+.fbpluginrecommendationsbarright{right:10px}
+</style></head><body class="results despegar pt_br">
+<div id="header" class="header">
+<!--header-html-->
+<div class="headerContent">
+<div class="logoContainer">
+<a class="brandLogo" href="http://www.decolar.com" target="_blank"><img class="imageLogo" src="http://br.staticontent.com/img-versioned/1.8.0/despegar/logos/decolar.gif" alt="decolar.com"></a>
+<span class="slogan">A agência de viagens lider em <a id="countrySlogan">Brasil</a></span>
+</div>
+<div id="popupCountries" class="popUpNew">
+<div class="opaqueDiv"></div>
+<div class="popUpContainer">
+<div class="commonSprite closePopUp closeBlueIcon"></div>
+<span class="topIndicator"></span>
+<div class="titlePopUpContainer">
+<span class="titlePopUp">Lugar de residência</span>
+</div>
+<div class="popUpContent">
+<div class="telephonesContact">
+<select class="countries">
+<optgroup label="Brasil">
+<option value="www.decolar.com/Belo-Horizonte"> Belo Horizonte </option>
+<option value="www.decolar.com/Brasilia"> Brasilia </option>
+<option value="www.decolar.com/curitiba"> Curitiba </option>
+<option value="www.decolar.com/fortaleza"> Fortaleza </option>
+<option value="www.decolar.com/porto-alegre"> Porto Alegre </option>
+<option value="www.decolar.com/recife"> Recife </option>
+<option value="www.decolar.com/Rio-de-Janeiro"> Rio de Janeiro </option>
+<option value="www.decolar.com/Salvador"> Salvador </option>
+<option value="www.decolar.com"> São Paulo </option>
+</optgroup>
+<optgroup label="Outros países">
+<option value="www.despegar.com.ar">Argentina</option>
+<option value="www.despegar.com.bo">Bolivia</option>
+<option value="www.despegar.cl">Chile</option>
+<option value="www.despegar.com.co">Colômbia</option>
+<option value="www.despegar.co.cr">Costa Rica</option>
+<option value="www.despegar.com.ec">Equador</option>
+<option value="www.despegar.com.sv">El Salvador</option>
+<option value="www.es.despegar.com">Espanha</option>
+<option value="www.us.despegar.com">Estados Unidos</option>
+<option value="www.despegar.com.gt">Guatemala</option>
+<option value="www.despegar.hn">Honduras</option>
+<option value="www.despegar.com.mx">México</option>
+<option value="www.despegar.com.ni">Nicarágua</option>
+<option value="www.despegar.com.pa">Panamá</option>
+<option value="www.despegar.com.py">Paraguai</option>
+<option value="www.despegar.com.pe">Perú</option>
+<option value="www.despegar.com.pr">Porto Rico</option>
+<option value="www.despegar.com.do">Rep. Dominicana</option>
+<option value="www.despegar.com.uy">Uruguai</option>
+<option value="www.despegar.com.ve">Venezuela</option>
+</optgroup></select>
+</div>
+<a class="submit buttonSprite globalSmallBlueButton"><span>Alterar</span></a>
+</div>
+</div>
+</div>
+<div class="likeItFacebook">
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px; "><div></div><div><iframe id="fb_xdm_frame_http" name="fb_xdm_frame_http" src="http://static.ak.facebook.com/connect/xd_arbiter.php?version=6#channel=f14429866fe9598&amp;origin=http%3A%2F%2Fwww.decolar.com&amp;channel_path=%2Fshop%2Fflights%2Fsearch%2Froundtrip%2FCWB%2FMAO%2F2012-07-14%2F2012-07-29%2F1%2F0%2F0%2F%3Ffb_xd_fragment%23xd_sig%3Df2c70a609d87c08%26&amp;transport=postmessage"></iframe><iframe id="fb_xdm_frame_https" name="fb_xdm_frame_https" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=6#channel=f14429866fe9598&amp;origin=http%3A%2F%2Fwww.decolar.com&amp;channel_path=%2Fshop%2Fflights%2Fsearch%2Froundtrip%2FCWB%2FMAO%2F2012-07-14%2F2012-07-29%2F1%2F0%2F0%2F%3Ffb_xd_fragment%23xd_sig%3Df2c70a609d87c08%26&amp;transport=postmessage"></iframe></div></div></div>
+<fb:like href="http://www.facebook.com/decolar" send="false" layout="button_count" width="450" show_faces="false" class=" fb_edge_widget_with_comment fb_iframe_widget"><span style="height: 21px; width: 450px; "><iframe id="f55cd06ddab82" name="f12e81629878e14" scrolling="no" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; overflow-x: hidden; overflow-y: hidden; height: 21px; width: 450px; " title="Like this content on Facebook." class="fb_ltr" src="http://www.facebook.com/plugins/like.php?channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D6%23cb%3Df3251ecaf877568%26origin%3Dhttp%253A%252F%252Fwww.decolar.com%252Ff14429866fe9598%26domain%3Dwww.decolar.com%26relation%3Dparent.parent&amp;extended_social_context=false&amp;href=http%3A%2F%2Fwww.facebook.com%2Fdecolar&amp;layout=button_count&amp;locale=pt_BR&amp;node_type=link&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=450"></iframe></span></fb:like>
+</div>
+<div class="informationContainer">
+<div class="middleInfo">
+<div class="contactInformation">
+<a class="contactLink" href="http://www.decolar.com/fale-conosco">Serviço de Atendimento ao Cliente</a>
+<div class="telephonesContact">
+<span class="telephoneNumber">4003-9444</span><span class="commonSprite telephoneIcon"></span>
+</div>
+</div>
+<ul class="linksHeader">
+<li class="hotelsLink">
+<a class="navLinks buttonSprite firstTab" href="http://www.decolar.com/hoteis/"><span>Hotéis</span></a>
+</li>
+<li class="flightsLink">
+<a class="navLinks buttonSprite middleTab" href="http://www.decolar.com/passagens-aereas/"><span>Passagens</span></a>
+</li>
+<li class="packagesLink">
+<a class="navLinks buttonSprite middleTab" href="http://www.decolar.com/pacotes/"><span>Pacotes</span></a>
+</li>
+<li class="cruisesLink">
+<a class="navLinks buttonSprite middleTab" href="http://www.decolar.com/?tab=cru"><span>Cruzeiros</span></a>
+</li>
+<li class="carsLink">
+<a class="navLinks buttonSprite lastTab" href="http://www.decolar.com/?tab=car"><span>Carros</span></a>
+</li>
+</ul>
+</div>
+<div class="commonSprite bestPricelogo bestPricelogo_pt">
+</div>
+</div>
+</div>
+<!--header-html END-->
+<div class="popUpNew" id="popupBestPrice" style="display: none; "> 		<div class="opaqueDiv"></div> 		<div class="popUpContainer"> 	        <div class="commonSprite closePopUp closeBlueIcon"></div> 	         	        <div class="titlePopUpContainer"><span class="titlePopUp">Decolar.com: A agencia N°1 em preço</span></div> 			<div class="popUpContent"><p class="popupBestServiceText">Trabalhamos todos os dias para lhe ajudar a economizar tempo e dinheiro em suas compras de viagem. Queremos que tenha a tranquilidade que cada vez que compra no Decolar.com está recebendo a melhor tarifa disponivel. Por isto garantimos que no Decolar.com você encontrará as melhores tarifas em voos e hoteis, caso você encontre uma melhor tarifa, devolvemos a diferença de até US$ 100,00 como crédito em uma futura compra em nosso site.</p><p class="popupBestServiceText">O melhor preço garantido equivale à oferta das melhores tarifas em voos e hotéis, não inclusos impostos, encargos e taxas de serviço.</p><a href="/commercial-web/betterprice/termsandconditions" target="_blank">Melhor preço garantido</a></div> 	    </div>	</div><div class="popUpNew" id="popupBestService" style="display: none; "> 		<div class="opaqueDiv"></div> 		<div class="popUpContainer"> 	        <div class="commonSprite closePopUp closeBlueIcon"></div> 	         	        <div class="titlePopUpContainer"><span class="titlePopUp">Decolar: A agencia N°1 em serviço</span></div> 			<div class="popUpContent"><p class="popupBestServiceText">"Sua satistação é a nossa prioridade.Há 10 anos trabalhamos para que a compra de seu voo e hotel seja, rapida, simples e sem surpresas. Passamos de 3 milhões de viajantes que compraram no nosso site. Faça parte deste publico e descobra porque 93% estão satisfeitos em ter comprado no Decolar.com.</p><a class="popupBestServiceLink" href="/turismo/happyclients" target="_blank">Veja as opinões de nossos clientes</a></div> 	    </div>	</div></div>
+<div id="mainContainer">
+<!--[if lte IE 8 ]>
+<span class="commonSprite mainCornerTL"></span>
+<span class="commonSprite mainCornerTR"></span>
+<![endif]-->
+<div class="results-top grid_24">
+<h1 id="title" class="title page-title">
+<span class="search-info">
+<span class="amount">111</span>
+Vôos de Curitiba a Manaus </span>
+<a href="#" class="best-price">com melhor preço garantido</a>
+</h1>
+<div class="social-media">
+<!--socialmedia-html-->
+<ul class="socialMedia">
+<li class="fb">
+<span class="picture"></span>
+<div class="component">
+<div id="fb-root"></div>
+<div class="fb-like fb_edge_widget_with_comment fb_iframe_widget" data-ref="vuelos-flow-mao-cwb-www.decolar.com" data-href="http://www.decolar.com/passagens-aereas/cwb/mao/passagens-aereas-para-manaus-saindo-de-curitiba" data-send="false" data-layout="button_count" data-width="112" data-show-faces="false" data-action="recommend"><span style="height: 21px; width: 130px; "><iframe id="f153b0abaf732d4" name="fe3fb6cd798fcc" scrolling="no" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; overflow-x: hidden; overflow-y: hidden; height: 21px; width: 130px; " title="Like this content on Facebook." class="fb_ltr" src="http://www.facebook.com/plugins/like.php?action=recommend&amp;channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D6%23cb%3Dfaa9ee37f8992%26origin%3Dhttp%253A%252F%252Fwww.decolar.com%252Ff14429866fe9598%26domain%3Dwww.decolar.com%26relation%3Dparent.parent&amp;extended_social_context=false&amp;href=http%3A%2F%2Fwww.decolar.com%2Fpassagens-aereas%2Fcwb%2Fmao%2Fpassagens-aereas-para-manaus-saindo-de-curitiba&amp;layout=button_count&amp;locale=pt_BR&amp;node_type=link&amp;ref=vuelos-flow-mao-cwb-www.decolar.com&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=130"></iframe></span></div>
+</div>
+</li>
+<li class="tw">
+<span class="picture"></span>
+<div class="component">
+<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.decolar.com/passagens-aereas/cwb/mao/passagens-aereas-para-manaus-saindo-de-curitiba" data-text="#Manaus é para onde eu vou. Encontrei o melhor preço de passagem no Decolar.com! #Decolar" data-via="Decolar" data-count="horizontal" data-lang="pt" data-counturl="http://www.decolar.com/passagens-aereas/cwb/mao/passagens-aereas-para-manaus-saindo-de-curitiba"></a>
+</div>
+</li>
+<!--[if !lt IE 8]><![IGNORE[-->
+<li class="gp">
+<span class="picture"></span>
+<div class="component">
+<div class="g-plusone" data-size="medium" data-href="http://www.decolar.com/passagens-aereas/cwb/mao/passagens-aereas-para-manaus-saindo-de-curitiba"></div>
+</div>
+</li>
+<!--<![endif]-->
+</ul>
+<!--socialmedia-html END--></div>
+</div>
+<div class="left-column grid_6 alpha">
+<div id="search" class="search">
+<!--[if lte IE 8 ]>
+<span class="commonSprite roundCorner tabCornerTL"></span>
+<span class="commonSprite roundCorner tabCornerTR"></span>
+<span class="commonSprite roundCorner tabCornerBL"></span>
+<span class="commonSprite roundCorner tabCornerBR"></span>
+<![endif]-->
+<h3>Alterar busca</h3>
+<form class="search-form">
+<ul class="search-roundtrip">
+<li class="search-cities search-from">
+<label for="search-from">Origem</label>
+<input id="search-from" type="text" value="" class="ac_input">
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-cities search-to">
+<label for="search-to">Destino</label>
+<input id="search-to" type="text" value="" class="ac_input">
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-dates search-outbound">
+<label for="search-outbound">Ida</label>
+<input id="search-outbound" type="text" value="" class="isCalendar"><div class="mainSprite commonSprite buttonCalendarOn calendarImage"></div>
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-dates search-inbound">
+<label for="search-inbound">Volta</label>
+<input id="search-inbound" type="text" value="" class="isCalendar"><div class="mainSprite commonSprite buttonCalendarOn calendarImage"></div>
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-passengers search-adults">
+<label for="search-adults">Adultos</label>
+<select id="search-adults">
+<option value="1" selected=""> 1</option>
+<option value="2"> 2</option>
+<option value="3"> 3</option>
+<option value="4"> 4</option>
+<option value="5"> 5</option>
+<option value="6"> 6</option>
+<option value="7"> 7</option>
+<option value="8"> 8</option>
+</select>
+</li>
+<li class="search-passengers search-children">
+<label for="search-children">Crianças</label>
+<select id="search-children">
+<option value="0" selected=""> 0</option>
+<option value="1"> 1</option>
+<option value="2"> 2</option>
+<option value="3"> 3</option>
+<option value="4"> 4</option>
+<option value="5"> 5</option>
+<option value="6"> 6</option>
+<option value="7"> 7</option>
+</select>
+</li>
+<li class="search-passengers search-children-ages">
+<ul>
+<li class="search-children-aclaration" style="display: none;">Idade ao finalizar a viagem</li>
+<li class="search-children-age" id="search-children-1" style="display: none;">
+<select>
+<option value="-1" selected="">Selecione a idade da criança 1</option>
+<option value="0">0 a 24 meses (nos braços)</option>
+<option value="3">0 a 24 meses (no assento)</option>
+<option value="4">Até 11 anos</option>
+<option value="12">12 anos ou mais</option>
+</select>
+<span class="search-children-text search-children-0" id="search-children-1-0" style="display: none;">Tarifa Bebê</span>
+<span class="search-children-text search-children-3" id="search-children-1-3" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-4" id="search-children-1-4" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-12" id="search-children-1-12" style="display: none;">Tarifa Adulto</span>
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-children-age" id="search-children-2" style="display: none;">
+<select>
+<option value="-1" selected="">Selecione a idade da criança 2</option>
+<option value="0">0 a 24 meses (nos braços)</option>
+<option value="3">0 a 24 meses (no assento)</option>
+<option value="4">Até 11 anos</option>
+<option value="12">12 anos ou mais</option>
+</select>
+<span class="search-children-text search-children-0" id="search-children-2-0" style="display: none;">Tarifa Bebê</span>
+<span class="search-children-text search-children-3" id="search-children-2-3" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-4" id="search-children-2-4" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-12" id="search-children-2-12" style="display: none;">Tarifa Adulto</span>
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-children-age" id="search-children-3" style="display: none;">
+<select>
+<option value="-1" selected="">Selecione a idade da criança 3</option>
+<option value="0">0 a 24 meses (nos braços)</option>
+<option value="3">0 a 24 meses (no assento)</option>
+<option value="4">Até 11 anos</option>
+<option value="12">12 anos ou mais</option>
+</select>
+<span class="search-children-text search-children-0" id="search-children-3-0" style="display: none;">Tarifa Bebê</span>
+<span class="search-children-text search-children-3" id="search-children-3-3" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-4" id="search-children-3-4" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-12" id="search-children-3-12" style="display: none;">Tarifa Adulto</span>
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-children-age" id="search-children-4" style="display: none;">
+<select>
+<option value="-1" selected="">Selecione a idade da criança 4</option>
+<option value="0">0 a 24 meses (nos braços)</option>
+<option value="3">0 a 24 meses (no assento)</option>
+<option value="4">Até 11 anos</option>
+<option value="12">12 anos ou mais</option>
+</select>
+<span class="search-children-text search-children-0" id="search-children-4-0" style="display: none;">Tarifa Bebê</span>
+<span class="search-children-text search-children-3" id="search-children-4-3" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-4" id="search-children-4-4" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-12" id="search-children-4-12" style="display: none;">Tarifa Adulto</span>
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-children-age" id="search-children-5" style="display: none;">
+<select>
+<option value="-1" selected="">Selecione a idade da criança 5</option>
+<option value="0">0 a 24 meses (nos braços)</option>
+<option value="3">0 a 24 meses (no assento)</option>
+<option value="4">Até 11 anos</option>
+<option value="12">12 anos ou mais</option>
+</select>
+<span class="search-children-text search-children-0" id="search-children-5-0" style="display: none;">Tarifa Bebê</span>
+<span class="search-children-text search-children-3" id="search-children-5-3" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-4" id="search-children-5-4" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-12" id="search-children-5-12" style="display: none;">Tarifa Adulto</span>
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-children-age" id="search-children-6" style="display: none;">
+<select>
+<option value="-1" selected="">Selecione a idade da criança 6</option>
+<option value="0">0 a 24 meses (nos braços)</option>
+<option value="3">0 a 24 meses (no assento)</option>
+<option value="4">Até 11 anos</option>
+<option value="12">12 anos ou mais</option>
+</select>
+<span class="search-children-text search-children-0" id="search-children-6-0" style="display: none;">Tarifa Bebê</span>
+<span class="search-children-text search-children-3" id="search-children-6-3" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-4" id="search-children-6-4" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-12" id="search-children-6-12" style="display: none;">Tarifa Adulto</span>
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-children-age" id="search-children-7" style="display: none;">
+<select>
+<option value="-1" selected="">Selecione a idade da criança 7</option>
+<option value="0">0 a 24 meses (nos braços)</option>
+<option value="3">0 a 24 meses (no assento)</option>
+<option value="4">Até 11 anos</option>
+<option value="12">12 anos ou mais</option>
+</select>
+<span class="search-children-text search-children-0" id="search-children-7-0" style="display: none;">Tarifa Bebê</span>
+<span class="search-children-text search-children-3" id="search-children-7-3" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-4" id="search-children-7-4" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-12" id="search-children-7-12" style="display: none;">Tarifa Adulto</span>
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-children-age" id="search-children-8" style="display: none;">
+<select>
+<option value="-1" selected="">Selecione a idade da criança 8</option>
+<option value="0">0 a 24 meses (nos braços)</option>
+<option value="3">0 a 24 meses (no assento)</option>
+<option value="4">Até 11 anos</option>
+<option value="12">12 anos ou mais</option>
+</select>
+<span class="search-children-text search-children-0" id="search-children-8-0" style="display: none;">Tarifa Bebê</span>
+<span class="search-children-text search-children-3" id="search-children-8-3" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-4" id="search-children-8-4" style="display: none;">Tarifa Criança</span>
+<span class="search-children-text search-children-12" id="search-children-8-12" style="display: none;">Tarifa Adulto</span>
+<span class="main-sprite icon-error"></span>
+</li>
+<li class="search-infants-aclaration" style="display: none;">Não podem viajar mais bebês que adultos</li>
+</ul>
+</li>
+<li class="search-advanced search-class">
+<label for="search-class">
+<input id="search-class" type="checkbox" value="C">
+<span>Apenas Executiva/Business.</span>
+</label>
+</li>
+<li class="search-options">
+<a href="#">Opções avançadas</a>
+</li>
+<li class="search-do">
+<a class="buttonSprite globalSmallBlueButton" href="/shop/flights/search/">
+<span>Procurar</span>
+</a>
+</li>
+</ul>
+</form>
+</div>
+<div id="search-advanced" class="search-advanced searchBoxFlights" style="display: none;"></div>
+<div id="filters" class="filters" style="display: block; ">
+<h3>Filtrar por:</h3> <div class="filter price"> <span class="name"> <h4>Preço</h4> <span class="arrow arrow-open"></span> </span> <ul class="items"> <li class="item values"> <ul> <li> <input class="price-min" type="text" name="price-min"> </li> <li> até </li> <li> <input class="price-max" type="text" name="price-max"> </li> <li> <a class="buttonSprite globalSilverButton apply"><span>Aplicar</span></a> </li> </ul> </li> <li class="item clean"> <a href="#">Limpar filtro</a> </li> </ul> </div> <div class="filter stops"> <span class="name"> <h4>Escalas</h4> <span class="arrow arrow-open"></span> </span> <ul class="items" data-stops-info="{ &quot;name&quot; : &quot;allowedStopQuantities&quot; }"> <li class="item stops-all"> <label for="stops-all" class="selected disabled"> <input id="stops-all" class="all" type="checkbox" name="stops" value="NA" checked="" disabled=""> <strong class="label">Todas as escalas</strong> <strong class="total">111</strong> </label> </li>  <li class="item stops-NONE"> <label for="stops-NONE" class="disabled"> <input id="stops-NONE" type="checkbox" name="stops" value="NONE" disabled=""> <span class="label">Direto</span> <span class="total">0</span> </label> </li>  <li class="item stops-ONE"> <label for="stops-ONE" class="enabled"> <input id="stops-ONE" type="checkbox" name="stops" value="ONE"> <span class="label">1 Escala</span> <span class="total">69</span> </label> </li>  <li class="item stops-MORE_THAN_ONE"> <label for="stops-MORE_THAN_ONE" class="enabled"> <input id="stops-MORE_THAN_ONE" type="checkbox" name="stops" value="MORE_THAN_ONE"> <span class="label">2 o más escalas</span> <span class="total">42</span> </label> </li>  </ul> </div> <div class="filter time-outbound"> <span class="name"> <h4>Horários de saida</h4> <span class="arrow arrow-open"></span> </span> <ul class="items" data-time-outbound-info="{ &quot;name&quot; : &quot;allowedOutboundTimeRanges&quot; }"> <li class="item time-outbound-all"> <label for="time-outbound-all" class="selected disabled"> <input id="time-outbound-all" class="all" type="checkbox" name="time-outbound" value="NA" checked="" disabled=""> <strong class="label">Todos os horários</strong> <strong class="total">111</strong> </label> </li>  <li class="item time-outbound-MORNING"> <label for="time-outbound-MORNING" class="enabled"> <input id="time-outbound-MORNING" type="checkbox" name="time-outbound" value="MORNING"> <span class="label">Manhã (06 a 12hs)</span> <span class="total">33</span> </label> </li>  <li class="item time-outbound-AFTERNOON"> <label for="time-outbound-AFTERNOON" class="enabled"> <input id="time-outbound-AFTERNOON" type="checkbox" name="time-outbound" value="AFTERNOON"> <span class="label">Tarde (12 a 20hs)</span> <span class="total">78</span> </label> </li>  <li class="item time-outbound-NIGHT"> <label for="time-outbound-NIGHT" class="disabled"> <input id="time-outbound-NIGHT" type="checkbox" name="time-outbound" value="NIGHT" disabled=""> <span class="label">Noite (20 a 06hs)</span> <span class="total">0</span> </label> </li>  </ul> </div> <div class="filter time-inbound"> <span class="name"> <h4>Horário de volta</h4> <span class="arrow arrow-open"></span> </span> <ul class="items" data-time-inbound-info="{ &quot;name&quot; : &quot;allowedInboundTimeRanges&quot; }"> <li class="item time-inbound-all"> <label for="time-inbound-all" class="selected disabled"> <input id="time-inbound-all" class="all" type="checkbox" name="time-inbound" value="NA" checked="" disabled=""> <strong class="label">Todos os horários</strong> <strong class="total">111</strong> </label> </li>  <li class="item time-inbound-MORNING"> <label for="time-inbound-MORNING" class="enabled"> <input id="time-inbound-MORNING" type="checkbox" name="time-inbound" value="MORNING"> <span class="label">Manhã (06 a 12hs)</span> <span class="total">35</span> </label> </li>  <li class="item time-inbound-AFTERNOON"> <label for="time-inbound-AFTERNOON" class="enabled"> <input id="time-inbound-AFTERNOON" type="checkbox" name="time-inbound" value="AFTERNOON"> <span class="label">Tarde (12 a 20hs)</span> <span class="total">34</span> </label> </li>  <li class="item time-inbound-NIGHT"> <label for="time-inbound-NIGHT" class="enabled"> <input id="time-inbound-NIGHT" type="checkbox" name="time-inbound" value="NIGHT"> <span class="label">Noite (20 a 06hs)</span> <span class="total">42</span> </label> </li>  </ul> </div> <div class="filter airport-outbound"> <span class="name"> <h4>Aeroporto de origem</h4> <span class="arrow arrow-open"></span> </span> <ul class="items" data-airport-outbound-info="{ &quot;name&quot; : &quot;allowedOutboundAirports&quot; }"> <li class="item airport-outbound-all"> <label for="airport-outbound-all" class="selected disabled"> <input id="airport-outbound-all" class="all" type="checkbox" name="airport-outbound" value="NA" checked="" disabled=""> <strong class="label">Todos os aeroportos</strong> <strong class="total">111</strong> </label> </li>  <li class="item airport-outbound-CWB"> <label for="airport-CWB" class="enabled"> <input id="airport-CWB" type="checkbox" name="airport-outbound" value="CWB"> <span class="label">Aeroporto Internacional Afonso Pena</span> <span class="total">111</span> </label> </li>  </ul> <div class="filter unique-airport"> <ul class="items" data-unique-airport-info="{ &quot;name&quot; : &quot;uniqueHomeAirport&quot; }"> <li class="item"> <label for="unique-airport" class="enabled"> <input id="unique-airport" type="checkbox" name="unique-airport" value="TRUE"> <span>Ida e Volta pelo mesmo aeroporto</span> </label> </li> </ul> </div> </div> <div class="filter airport-inbound"> <span class="name"> <h4>Aeroporto de destino</h4> <span class="arrow arrow-open"></span> </span> <ul class="items" data-airport-inbound-info="{ &quot;name&quot; : &quot;allowedInboundAirports&quot; }"> <li class="item airport-inbound-all"> <label for="airport-inbound-all" class="selected disabled"> <input id="airport-inbound-all" class="all" type="checkbox" name="airport-inbound" value="NA" checked="" disabled=""> <strong class="label">Todos os aeroportos</strong> <strong class="total">111</strong> </label> </li>  <li class="item airport-inbound-MAO"> <label for="airport-MAO" class="enabled"> <input id="airport-MAO" type="checkbox" name="airport-inbound" value="MAO"> <span class="label">Aeroporto Eduardo Gomes Intl</span> <span class="total">111</span> </label> </li>  </ul> </div> <div class="filter airlines"> <span class="name"> <h4>Companhias</h4> <span class="arrow arrow-open"></span> </span> <ul class="items" data-airlines-info="{ &quot;name&quot; : &quot;allowedAirlines&quot; }"> <li class="item airlines-all"> <label for="airlines-all" class="selected disabled"> <input id="airlines-all" class="all" type="checkbox" name="airlines" value="NA" checked="" disabled=""> <strong class="label">Todas as companhias</strong> <strong class="total">111</strong> </label> </li>  <li class="item airlines-G3"> <label for="airlines-G3" class="enabled"> <input id="airlines-G3" type="checkbox" name="airlines" value="G3"> <img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_g3logo.png" alt="Gol" title="Gol" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"> <span class="label">Gol</span> <span class="total">15</span> </label> </li>  <li class="item airlines-AD"> <label for="airlines-AD" class="enabled"> <input id="airlines-AD" type="checkbox" name="airlines" value="AD"> <img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"> <span class="label">Azul</span> <span class="total">10</span> </label> </li>  <li class="item airlines-T4"> <label for="airlines-T4" class="enabled"> <input id="airlines-T4" type="checkbox" name="airlines" value="T4"> <img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"> <span class="label">Trip</span> <span class="total">25</span> </label> </li>  <li class="item airlines-JJ"> <label for="airlines-JJ" class="enabled"> <input id="airlines-JJ" type="checkbox" name="airlines" value="JJ"> <img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_jjlogo.png" alt="Tam" title="Tam" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"> <span class="label">Tam</span> <span class="total">61</span> </label> </li>   </ul> <div class="filter unique-airline"> <ul class="items" data-unique-airline-info="{ &quot;name&quot; : &quot;uniqueAirline&quot; }"> <li class="item"> <label for="unique-airline" class="enabled"> <input id="unique-airline" type="checkbox" name="unique-airline" value="TRUE"> <span>Ida e volta pela mesma Cia Aérea</span> </label> </li> </ul> </div> </div></div>
+<script id="filters-template" type="text/x-jquery-tmpl">
+<h3>Filtrar por:</h3>
+<div class="filter price">
+<span class="name">
+<h4>Preço</h4>
+<span class="arrow arrow-open"></span>
+</span>
+<ul class="items">
+<li class="item values">
+<ul>
+<li>
+<input class="price-min" type="text" name="price-min">
+</li>
+<li>
+até </li>
+<li>
+<input class="price-max" type="text" name="price-max">
+</li>
+<li>
+<a class="buttonSprite globalSilverButton apply"><span>Aplicar</span></a>
+</li>
+</ul>
+</li>
+<li class="item clean">
+<a href="#">Limpar filtro</a>
+</li>
+</ul>
+</div>
+<div class="filter stops">
+<span class="name">
+<h4>Escalas</h4>
+<span class="arrow arrow-open"></span>
+</span>
+<ul class="items" data-stops-info='{ "name" : "allowedStopQuantities" }'>
+<li class="item stops-all">
+<label for="stops-all" class="selected disabled">
+<input id="stops-all" class="all" type="checkbox" name="stops" value="NA" checked disabled>
+<strong class="label">Todas as escalas</strong>
+<strong class="total">{{= FlightsWeb.Common.TmplFunctions.countFilters($data.refinementSummary.stops) }}</strong>
+</label>
+</li>
+{{each(stopsIndex, stop) $data.refinementSummary.stops}}
+<li class="item stops-{{= stop.value }}">
+<label for="stops-{{= stop.value }}" class="{{= FlightsWeb.Common.TmplFunctions.disableElement(stop.count) }}">
+<input id="stops-{{= stop.value }}" type="checkbox" name="stops" value="{{= stop.value }}"{{= FlightsWeb.Common.TmplFunctions.disableCheckbox(stop.count) }}>
+<span class="label">{{= FlightsWeb.Common.TmplFunctions.getItemMessage(stop.value, {
+NONE : "Direto",
+ONE : "1 Escala",
+MORE_THAN_ONE : "2 o más escalas"
+}
+) }}</span>
+<span class="total">{{= stop.count }}</span>
+</label>
+</li>
+{{/each}}
+</ul>
+</div>
+<div class="filter time-outbound">
+<span class="name">
+<h4>Horários de saida</h4>
+<span class="arrow arrow-open"></span>
+</span>
+<ul class="items" data-time-outbound-info='{ "name" : "allowedOutboundTimeRanges" }'>
+<li class="item time-outbound-all">
+<label for="time-outbound-all" class="selected disabled">
+<input id="time-outbound-all" class="all" type="checkbox" name="time-outbound" value="NA" checked disabled>
+<strong class="label">Todos os horários</strong>
+<strong class="total">{{= FlightsWeb.Common.TmplFunctions.countFilters($data.refinementSummary.timeOutbound) }}</strong>
+</label>
+</li>
+{{each(timeOutboundIndex, timeOutbound) $data.refinementSummary.timeOutbound}}
+<li class="item time-outbound-{{= timeOutbound.value }}">
+<label for="time-outbound-{{= timeOutbound.value }}" class="{{= FlightsWeb.Common.TmplFunctions.disableElement(timeOutbound.count) }}">
+<input id="time-outbound-{{= timeOutbound.value }}" type="checkbox" name="time-outbound" value="{{= timeOutbound.value }}"{{= FlightsWeb.Common.TmplFunctions.disableCheckbox(timeOutbound.count) }}>
+<span class="label">{{= FlightsWeb.Common.TmplFunctions.getItemMessage(timeOutbound.value, {
+MORNING : "Manhã (06 a 12hs)",
+AFTERNOON : "Tarde (12 a 20hs)",
+NIGHT : "Noite (20 a 06hs)"
+}
+) }}</span>
+<span class="total">{{= timeOutbound.count }}</span>
+</label>
+</li>
+{{/each}}
+</ul>
+</div>
+<div class="filter time-inbound">
+<span class="name">
+<h4>Horário de volta</h4>
+<span class="arrow arrow-open"></span>
+</span>
+<ul class="items" data-time-inbound-info='{ "name" : "allowedInboundTimeRanges" }'>
+<li class="item time-inbound-all">
+<label for="time-inbound-all" class="selected disabled">
+<input id="time-inbound-all" class="all" type="checkbox" name="time-inbound" value="NA" checked disabled>
+<strong class="label">Todos os horários</strong>
+<strong class="total">{{= FlightsWeb.Common.TmplFunctions.countFilters($data.refinementSummary.timeInbound) }}</strong>
+</label>
+</li>
+{{each(timeInboundIndex, timeInbound) $data.refinementSummary.timeInbound}}
+<li class="item time-inbound-{{= timeInbound.value }}">
+<label for="time-inbound-{{= timeInbound.value }}" class="{{= FlightsWeb.Common.TmplFunctions.disableElement(timeInbound.count) }}">
+<input id="time-inbound-{{= timeInbound.value }}" type="checkbox" name="time-inbound" value="{{= timeInbound.value }}"{{= FlightsWeb.Common.TmplFunctions.disableCheckbox(timeInbound.count) }}>
+<span class="label">{{= FlightsWeb.Common.TmplFunctions.getItemMessage(timeInbound.value, {
+MORNING : "Manhã (06 a 12hs)",
+AFTERNOON : "Tarde (12 a 20hs)",
+NIGHT : "Noite (20 a 06hs)"
+}
+) }}</span>
+<span class="total">{{= timeInbound.count }}</span>
+</label>
+</li>
+{{/each}}
+</ul>
+</div>
+<div class="filter airport-outbound">
+<span class="name">
+<h4>Aeroporto de origem</h4>
+<span class="arrow arrow-open"></span>
+</span>
+<ul class="items" data-airport-outbound-info='{ "name" : "allowedOutboundAirports" }'>
+<li class="item airport-outbound-all">
+<label for="airport-outbound-all" class="selected disabled">
+<input id="airport-outbound-all" class="all" type="checkbox" name="airport-outbound" value="NA" checked disabled>
+<strong class="label">Todos os aeroportos</strong>
+<strong class="total">{{= FlightsWeb.Common.TmplFunctions.countFilters($data.refinementSummary.outboundAirports) }}</strong>
+</label>
+</li>
+{{each(airportIndex, airport) $data.refinementSummary.outboundAirports}}
+<li class="item airport-outbound-{{= airport.value.code }}">
+<label for="airport-{{= airport.value.code }}" class="enabled">
+<input id="airport-{{= airport.value.code }}" type="checkbox" name="airport-outbound" value="{{= airport.value.code }}" >
+<span class="label">{{= airport.value.description }}</span>
+<span class="total">{{= airport.count }}</span>
+</label>
+</li>
+{{/each}}
+</ul>
+<div class="filter unique-airport">
+<ul class="items" data-unique-airport-info='{ "name" : "uniqueHomeAirport" }'>
+<li class="item">
+<label for="unique-airport" class="enabled">
+<input id="unique-airport" type="checkbox" name="unique-airport" value="TRUE">
+<span>Ida e Volta pelo mesmo aeroporto</span>
+</label>
+</li>
+</ul>
+</div>
+</div>
+<div class="filter airport-inbound">
+<span class="name">
+<h4>Aeroporto de destino</h4>
+<span class="arrow arrow-open"></span>
+</span>
+<ul class="items" data-airport-inbound-info='{ "name" : "allowedInboundAirports" }'>
+<li class="item airport-inbound-all">
+<label for="airport-inbound-all" class="selected disabled">
+<input id="airport-inbound-all" class="all" type="checkbox" name="airport-inbound" value="NA" checked disabled>
+<strong class="label">Todos os aeroportos</strong>
+<strong class="total">{{= FlightsWeb.Common.TmplFunctions.countFilters($data.refinementSummary.inboundAirports) }}</strong>
+</label>
+</li>
+{{each(airportIndex, airport) $data.refinementSummary.inboundAirports}}
+<li class="item airport-inbound-{{= airport.value.code }}">
+<label for="airport-{{= airport.value.code }}" class="enabled">
+<input id="airport-{{= airport.value.code }}" type="checkbox" name="airport-inbound" value="{{= airport.value.code }}" >
+<span class="label">{{= airport.value.description }}</span>
+<span class="total">{{= airport.count }}</span>
+</label>
+</li>
+{{/each}}
+</ul>
+</div>
+<div class="filter airlines">
+<span class="name">
+<h4>Companhias</h4>
+<span class="arrow arrow-open"></span>
+</span>
+<ul class="items" data-airlines-info='{ "name" : "allowedAirlines" }'>
+<li class="item airlines-all">
+<label for="airlines-all" class="selected disabled">
+<input id="airlines-all" class="all" type="checkbox" name="airlines" value="NA" checked disabled>
+<strong class="label">Todas as companhias</strong>
+<strong class="total">{{= FlightsWeb.Common.TmplFunctions.countFilters($data.refinementSummary.airlines) }}</strong>
+</label>
+</li>
+{{each(airlineIndex, airline) $data.refinementSummary.airlines}}
+<li class="item airlines-{{= airline.value.code }}{{= FlightsWeb.Common.TmplFunctions.hideElements(airlineIndex, 15) }}">
+<label for="airlines-{{= airline.value.code }}" class="enabled">
+<input id="airlines-{{= airline.value.code }}" type="checkbox" name="airlines" value="{{= airline.value.code }}" >
+<img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_{{= FlightsWeb.Common.TmplFunctions.convertToLowerCase(airline.value.code) }}logo.png" alt="{{= airline.value.description }}" title="{{= airline.value.description }}" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'" />
+<span class="label">{{= airline.value.description }}</span>
+<span class="total">{{= airline.count }}</span>
+</label>
+</li>
+{{/each}}
+{{if $data.refinementSummary.airlines.length > 15}}
+<li class="item show-all">
+<a href="#">Ver todas &raquo;</a>
+</li>
+{{/if}}
+</ul>
+<div class="filter unique-airline">
+<ul class="items" data-unique-airline-info='{ "name" : "uniqueAirline" }'>
+<li class="item">
+<label for="unique-airline" class="enabled">
+<input id="unique-airline" type="checkbox" name="unique-airline" value="TRUE">
+<span>Ida e volta pela mesma Cia Aérea</span>
+</label>
+</li>
+</ul>
+</div>
+</div>
+</script>
+<script id="popup-filter-error-template" type="text/x-jquery-tmpl">
+<div class="popup-filter-error">
+<span>{{= error }}</span>
+</div>
+</script>
+</div>
+<div class="right-column grid_18 omega">
+<div id="results-loader" class="results-loader" style="display: none; ">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="700" height="200" id="movie_name" align="middle">
+<param name="movie" value="http://br.staticontent.com/shop/flights/img-versioned/1.2.6/despegar/flash/loaders/pt_br_domestic.swf">
+<param name="wmode" value="transparent">
+<!--[if !IE]>-->
+<object type="application/x-shockwave-flash" data="http://br.staticontent.com/shop/flights/img-versioned/1.2.6/despegar/flash/loaders/pt_br_domestic.swf" width="700" height="200">
+<param name="movie" value="http://br.staticontent.com/shop/flights/img-versioned/1.2.6/despegar/flash/loaders/pt_br_domestic.swf">
+<param name="wmode" value="transparent">
+<!--<![endif]-->
+<div class="no-flash">
+<div class="searching">
+<span class="text">Buscando vôos...</span>
+<img class="loader" src="http://br.staticontent.com/shop/flights/img-versioned/1.2.6/despegar/static/loaders/loader.gif">
+</div>
+<div class="best-price">
+<span class="text">Melhor preço encontrado!</span>
+<span class="commonSprite littleBestPricelogo_pt logo"></span>
+</div>
+</div>
+<!--[if !IE]>-->
+</object>
+<!--<![endif]-->
+</object>
+</div><div id="results-warning" class="results-messages" style="display: none; ">
+<span class="commonSprite warningSymbol"></span>
+<div class="text">
+<span class="message">
+Não encontramos voos
+</span>
+<span class="help">Abaixo apresentamos outros vôos de todas as companhias aéreas, sem restrições de horário, classe de reserva ou escalas.</span>
+</div>
+</div>
+<div id="matrix" class="matrix" style=""><a class="matrix-reset" style="display: none;">Mostrar todos os resultados</a> <div class="container"> <ul class="matrix-scales"> <li class="first head"> <p>Resumo</p> <p> (tarifa por adulto) </p> </li> <li class="even " data-scale-info="{ &quot;index&quot; : 1, &quot;code&quot; : &quot;NONE&quot; }"> Direto </li> <li class="scale" data-scale-info="{ &quot;index&quot; : 2, &quot;code&quot; : &quot;ONE&quot; }"> 1 Escala </li> <li class="last even scale" data-scale-info="{ &quot;index&quot; : 3, &quot;code&quot; : &quot;MORE_THAN_ONE&quot; }"> 2 Escalas ou mais </li> </ul>  <div class="matrix-airlines"> <div class="matrix-airlines-container">  <ul class="column-visible column-visible-first"> <li class="first head"> <div class="airline-description" data-airline-info="{ &quot;code&quot; : &quot;AD&quot;, &quot;name&quot; : &quot;Azul&quot;}"> <div class="airline-logo"> <img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"> </div> <div class="airline-name"> <span>Azul</span> </div> </div> <div class="airline-reviews">  <a href="#" class="reviews"> Muito bom, 8.6 pts </a>  </div> </li> <li class="even">  </li> <li id="C_-2120461543_1854358804" class="price" data-item-info="{ &quot;code&quot; : &quot;C_-2120461543_1854358804&quot;, &quot;validationCode&quot; : &quot;C_-2120461543_1854358804-1&quot; }">   <p class="price-currency BRL">  <span class="price-mask">R$</span> <span class="price-amount">1.128</span>  </p>   </li> <li id="C_-1204948668" class="last even price" data-item-info="{ &quot;code&quot; : &quot;C_-1204948668&quot;, &quot;validationCode&quot; : &quot;C_-1204948668-2&quot; }">   <p class="price-currency BRL"> <span class="price-best"> <span class="price-mask">R$</span> <span class="price-amount">1.072</span> </span> </p>   </li> </ul>  <ul class="column-visible"> <li class="first head"> <div class="airline-description" data-airline-info="{ &quot;code&quot; : &quot;T4&quot;, &quot;name&quot; : &quot;Trip&quot;}"> <div class="airline-logo"> <img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"> </div> <div class="airline-name"> <span>Trip</span> </div> </div> <div class="airline-reviews">  <a href="#" class="reviews"> Muito bom, 8.3 pts </a>  </div> </li> <li class="even">  </li> <li id="C_1255151594" class="price" data-item-info="{ &quot;code&quot; : &quot;C_1255151594&quot;, &quot;validationCode&quot; : &quot;C_1255151594-1&quot; }">   <p class="price-currency BRL"> <span class="price-best"> <span class="price-mask">R$</span> <span class="price-amount">1.120</span> </span> </p>   </li> <li id="C_815371766" class="last even price" data-item-info="{ &quot;code&quot; : &quot;C_815371766&quot;, &quot;validationCode&quot; : &quot;C_815371766-2&quot; }">   <p class="price-currency BRL">  <span class="price-mask">R$</span> <span class="price-amount">1.220</span>  </p>   </li> </ul>  <ul class="column-visible"> <li class="first head"> <div class="airline-description" data-airline-info="{ &quot;code&quot; : &quot;JJ&quot;, &quot;name&quot; : &quot;Tam&quot;}"> <div class="airline-logo"> <img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_jjlogo.png" alt="Tam" title="Tam" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"> </div> <div class="airline-name"> <span>Tam</span> </div> </div> <div class="airline-reviews">  <a href="#" class="reviews"> Muito bom, 7.8 pts </a>  </div> </li> <li class="even">  </li> <li id="C_1368453575" class="price" data-item-info="{ &quot;code&quot; : &quot;C_1368453575&quot;, &quot;validationCode&quot; : &quot;C_1368453575-1&quot; }">   <p class="price-currency BRL">  <span class="price-mask">R$</span> <span class="price-amount">1.452</span>  </p>   </li> <li id="C_476930912" class="last even price" data-item-info="{ &quot;code&quot; : &quot;C_476930912&quot;, &quot;validationCode&quot; : &quot;C_476930912-2&quot; }">   <p class="price-currency BRL">  <span class="price-mask">R$</span> <span class="price-amount">2.197</span>  </p>   </li> </ul>  <ul class="column-visible column-visible-last"> <li class="first head"> <div class="airline-description" data-airline-info="{ &quot;code&quot; : &quot;G3&quot;, &quot;name&quot; : &quot;Gol&quot;}"> <div class="airline-logo"> <img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_g3logo.png" alt="Gol" title="Gol" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"> </div> <div class="airline-name"> <span>Gol</span> </div> </div> <div class="airline-reviews">  <a href="#" class="reviews"> Muito bom, 7.5 pts </a>  </div> </li> <li class="even">  </li> <li id="C_-2022157620_1096596610" class="price" data-item-info="{ &quot;code&quot; : &quot;C_-2022157620_1096596610&quot;, &quot;validationCode&quot; : &quot;C_-2022157620_1096596610-1&quot; }">   <p class="price-currency BRL">  <span class="price-mask">R$</span> <span class="price-amount">1.871</span>  </p>   </li> <li id="C_410658783" class="last even price" data-item-info="{ &quot;code&quot; : &quot;C_410658783&quot;, &quot;validationCode&quot; : &quot;C_410658783-2&quot; }">   <p class="price-currency BRL">  <span class="price-mask">R$</span> <span class="price-amount">2.002</span>  </p>   </li> </ul>  </div> </div> </div></div>
+<script id="matrix-template" type="text/x-jquery-tmpl">
+<a class="matrix-reset" style="display: none;">Mostrar todos os resultados</a>
+<div class="container">
+<ul class="matrix-scales">
+<li class="first head">
+<p>Resumo</p>
+<p>
+(tarifa por adulto) </p>
+</li>
+<li class="even {{if FlightsWeb.Common.TmplFunctions.hasScales($data.result.matrix, "noScale")}}scale{{/if}}" data-scale-info='{ "index" : 1, "code" : "NONE" }'>
+Direto </li>
+<li class="{{if FlightsWeb.Common.TmplFunctions.hasScales($data.result.matrix, "oneScale")}}scale{{/if}}" data-scale-info='{ "index" : 2, "code" : "ONE" }'>
+1 Escala </li>
+<li class="last even {{if FlightsWeb.Common.TmplFunctions.hasScales($data.result.matrix, "twoPlusScales")}}scale{{/if}}" data-scale-info='{ "index" : 3, "code" : "MORE_THAN_ONE" }'>
+2 Escalas ou mais </li>
+</ul>
+{{if $data.result.matrix.length > 5}}
+<span class="matrix-prev" style="display: none;">&lt;</span>
+<span class="matrix-next">&gt;</span>
+{{/if}}
+<div class="matrix-airlines">
+<div class="matrix-airlines-container">
+{{each(index, data) $data.result.matrix}}
+<ul>
+<li class="first head">
+<div class="airline-description" data-airline-info='{ "code" : "{{= data.airline.code}}", "name" : "{{= data.airline.description}}"}'>
+<div class="airline-logo">
+<img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_{{= FlightsWeb.Common.TmplFunctions.convertToLowerCase(data.airline.code) }}logo.png" alt="{{= data.airline.description}}" title="{{= data.airline.description}}" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'" />
+</div>
+<div class="airline-name">
+<span>{{= data.airline.description}}</span>
+</div>
+</div>
+<div class="airline-reviews">
+{{tmpl($data.result.reviewsSummary[data.airline.code]) "#reviews-template"}}
+</div>
+</li>
+<li {{if data.noScale}} id="{{= data.noScale.id}}" class="even price" data-item-info='{ "code" : "{{= data.noScale.id}}", "validationCode" : "{{= data.noScale.id}}-0" }' {{else}} class="even" {{/if}}>
+{{if data.noScale}}
+{{each(indexPrice, price) data.noScale.prices}}
+<p class="price-currency {{= price.formatted.code}}">
+{{if data.noScale.bestPrice}}<span class="price-best">{{/if}}
+<span class="price-mask">{{= price.formatted.mask}}</span>
+<span class="price-amount">{{= price.formatted.amount}}</span>
+{{if data.noScale.bestPrice}}</span>{{/if}}
+</p>
+{{/each}}
+{{/if}}
+</li>
+<li {{if data.oneScale}} id="{{= data.oneScale.id}}" class="price" data-item-info='{ "code" : "{{= data.oneScale.id}}", "validationCode" : "{{= data.oneScale.id}}-1" }' {{/if}}>
+{{if data.oneScale}}
+{{each(indexPrice, price) data.oneScale.prices}}
+<p class="price-currency {{= price.formatted.code}}">
+{{if data.oneScale.bestPrice}}<span class="price-best">{{/if}}
+<span class="price-mask">{{= price.formatted.mask}}</span>
+<span class="price-amount">{{= price.formatted.amount}}</span>
+{{if data.oneScale.bestPrice}}</span>{{/if}}
+</p>
+{{/each}}
+{{/if}}
+</li>
+<li {{if data.twoPlusScales}} id="{{= data.twoPlusScales.id}}" class="last even price" data-item-info='{ "code" : "{{= data.twoPlusScales.id}}", "validationCode" : "{{= data.twoPlusScales.id}}-2" }' {{else}} class="last even" {{/if}}>
+{{if data.twoPlusScales}}
+{{each(indexPrice, price) data.twoPlusScales.prices}}
+<p class="price-currency {{= price.formatted.code}}">
+{{if data.twoPlusScales.bestPrice}}<span class="price-best">{{/if}}
+<span class="price-mask">{{= price.formatted.mask}}</span>
+<span class="price-amount">{{= price.formatted.amount}}</span>
+{{if data.twoPlusScales.bestPrice}}</span>{{/if}}
+</p>
+{{/each}}
+{{/if}}
+</li>
+</ul>
+{{/each}}
+</div>
+</div>
+</div>
+</script>
+<div id="order" class="order" style="">
+<form class="order-form">
+<ul>
+<li class="orderby">
+<label for="orderby">
+<span>Ordenar</span>
+<select name="orderby" id="orderby">
+<option value="SCORING_DESCENDING">Mais vendidos: maior a menor</option>
+<option value="FARE_DESCENDING">Preço: maior a menor</option>
+<option value="FARE_ASCENDING" selected="">Preço: menor a maior</option>
+<option value="STOPSCOUNT_DESCENDING">Escalas: maior a menor</option>
+<option value="STOPSCOUNT_ASCENDING">Escalas: menor a maior</option>
+</select>
+</label>
+</li>
+</ul>
+</form>
+</div><div id="results-messages" class="results-messages" style="display: none; ">
+<span class="commonSprite warningSymbol"></span>
+<div class="text">
+<span class="message"></span>
+<span class="help"></span>
+</div>
+</div>
+<div id="results-error" class="results-messages" style="display: none; ">
+<span class="commonSprite warningSymbol"></span>
+<div class="text">
+<span class="message">Não foi possivel encontrar assentos disponiveis nos vôos buscados.</span>
+<span class="help">
+Realize uma nova busca em cidades próximas ou em outras datas.<br>Algumas rotas aéreas só funcionam em alta temporada.
+</span>
+</div>
+</div>
+<div id="filters-error" class="results-messages" style="display: none; ">
+<span class="commonSprite warningSymbol"></span>
+<div class="text">
+<span class="message">Desculpe, não encontramos voos com o ultimo critério selecionado.</span>
+<span class="help"><a href="#" class="remove-last-action">Desfazer a ultima ação.</a></span>
+</div>
+</div>
+<div id="clusters" class="clusters" style=""><div class="cluster" data-cluster-info="{ &quot;index&quot; : 0, &quot;hash&quot; : &quot;C_-1204948668&quot; }"> <div class="itineraries">  <div class="sub-cluster outbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-outbound"></span> </li> <li class="type"> <span> Ida </span> </li> <li class="city"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 0, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">CWB</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 0, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">MAO</a> </li> <li class="date"> <span>Sábado 14 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 0, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="0-outbound-0"> <ul> <li class="radio"> <input type="radio" name="0-outbound" id="0-outbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">06:30</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">14:06</strong> </li> <li class="time"> <span>9h 36m</span> </li> <li class="stops"> <a href="#" class="text">  3 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Azul</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de ida.</li> </ul> </div>   <div class="sub-cluster inbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-inbound"></span> </li> <li class="type"> <span>Volta</span> </li> <li class="city"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 0, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">MAO</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 0, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">CWB</a> </li> <li class="date"> <span>Domingo 29 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 0, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="0-inbound-0"> <ul> <li class="radio"> <input type="radio" name="0-inbound" id="0-inbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">14:42</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">22:18</strong> </li> <li class="time"> <span>5h 36m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Azul</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de volta.</li> </ul> </div>  <div class="actions">  <a href="#" class="payments">Até 6 vezes!</a>  <div class="icons"> <a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title="Imprimir"></a> </div>  <span class="message"></span>  </div> </div> <div class="fare-container"> <span class="fare-description">Tarifa por adulto</span> <span class="fare">  <span class="price-currency BRL"> <span class="currency">R$</span> <span class="amount">1.072</span> </span>  </span> <a href="#" class="buy btn-buy buttonSprite globalSmallRedButton"> <span>Comprar</span> </a>  <span class="tickets-left">Último lugar!</span>  </div> </div>  <div class="cluster" data-cluster-info="{ &quot;index&quot; : 1, &quot;hash&quot; : &quot;C_1255151594&quot; }"> <div class="itineraries">  <div class="sub-cluster outbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-outbound"></span> </li> <li class="type"> <span> Ida </span> </li> <li class="city"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 1, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">CWB</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 1, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">MAO</a> </li> <li class="date"> <span>Sábado 14 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 1, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="1-outbound-0"> <ul> <li class="radio"> <input type="radio" name="1-outbound" id="1-outbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">06:53</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">12:05</strong> </li> <li class="time"> <span>6h 12m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de ida.</li> </ul> </div>   <div class="sub-cluster inbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-inbound"></span> </li> <li class="type"> <span>Volta</span> </li> <li class="city"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 1, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">MAO</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 1, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">CWB</a> </li> <li class="date"> <span>Domingo 29 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 1, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="1-inbound-0"> <ul> <li class="radio"> <input type="radio" name="1-inbound" id="1-inbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">15:52</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">22:30</strong> </li> <li class="time"> <span>5h 38m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de volta.</li> </ul> </div>  <div class="actions">  <a href="#" class="payments">Até 6 vezes!</a>  <div class="icons"> <a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title="Imprimir"></a> </div>  <span class="message"></span>  </div> </div> <div class="fare-container"> <span class="fare-description">Tarifa por adulto</span> <span class="fare">  <span class="price-currency BRL"> <span class="currency">R$</span> <span class="amount">1.120</span> </span>  </span> <a href="#" class="buy btn-buy buttonSprite globalSmallRedButton"> <span>Comprar</span> </a>  </div> </div>  <div class="cluster" data-cluster-info="{ &quot;index&quot; : 2, &quot;hash&quot; : &quot;C_-2120461543_1854358804&quot; }"> <div class="itineraries">  <div class="sub-cluster outbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-outbound"></span> </li> <li class="type"> <span> Ida </span> </li> <li class="city"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 2, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">CWB</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 2, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">MAO</a> </li> <li class="date"> <span>Sábado 14 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 2, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="2-outbound-0"> <ul> <li class="radio"> <input type="radio" name="2-outbound" id="2-outbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">07:54</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">15:07</strong> </li> <li class="time"> <span>9h 13m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Azul</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 2, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 1 }"> <label for="2-outbound-1"> <ul> <li class="radio"> <input type="radio" name="2-outbound" id="2-outbound-1"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">10:18</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">15:07</strong> </li> <li class="time"> <span>6h 49m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Azul</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de ida.</li> </ul> </div>   <div class="sub-cluster inbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-inbound"></span> </li> <li class="type"> <span>Volta</span> </li> <li class="city"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 2, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">MAO</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 2, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">CWB</a> </li> <li class="date"> <span>Domingo 29 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 2, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="2-inbound-0"> <ul> <li class="radio"> <input type="radio" name="2-inbound" id="2-inbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">14:42</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">22:18</strong> </li> <li class="time"> <span>5h 36m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Azul</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de volta.</li> </ul> </div>  <div class="actions">  <a href="#" class="payments">Até 6 vezes!</a>  <div class="icons"> <a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title="Imprimir"></a> </div>  <span class="message"></span>  </div> </div> <div class="fare-container"> <span class="fare-description">Tarifa por adulto</span> <span class="fare">  <span class="price-currency BRL"> <span class="currency">R$</span> <span class="amount">1.128</span> </span>  </span> <a href="#" class="buy btn-buy buttonSprite globalSmallRedButton"> <span>Comprar</span> </a>  <span class="tickets-left">Último lugar!</span>  </div> </div>  <div class="cluster" data-cluster-info="{ &quot;index&quot; : 3, &quot;hash&quot; : &quot;C_-1957829983&quot; }"> <div class="itineraries">  <div class="sub-cluster outbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-outbound"></span> </li> <li class="type"> <span> Ida </span> </li> <li class="city"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 3, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">CWB</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 3, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">MAO</a> </li> <li class="date"> <span>Sábado 14 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 3, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="3-outbound-0"> <ul> <li class="radio"> <input type="radio" name="3-outbound" id="3-outbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">06:30</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">14:06</strong> </li> <li class="time"> <span>9h 36m</span> </li> <li class="stops"> <a href="#" class="text">  3 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Azul</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de ida.</li> </ul> </div>   <div class="sub-cluster inbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-inbound"></span> </li> <li class="type"> <span>Volta</span> </li> <li class="city"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 3, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">MAO</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 3, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">CWB</a> </li> <li class="date"> <span>Domingo 29 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 3, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="3-inbound-0"> <ul> <li class="radio"> <input type="radio" name="3-inbound" id="3-inbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">01:40</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">10:20</strong> </li> <li class="time"> <span>6h 40m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Azul</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de volta.</li> </ul> </div>  <div class="actions">  <a href="#" class="payments">Até 6 vezes!</a>  <div class="icons"> <a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title="Imprimir"></a> </div>  <span class="message"></span>  </div> </div> <div class="fare-container"> <span class="fare-description">Tarifa por adulto</span> <span class="fare">  <span class="price-currency BRL"> <span class="currency">R$</span> <span class="amount">1.138</span> </span>  </span> <a href="#" class="buy btn-buy buttonSprite globalSmallRedButton"> <span>Comprar</span> </a>  <span class="tickets-left">Último lugar!</span>  </div> </div>  <div class="cluster" data-cluster-info="{ &quot;index&quot; : 4, &quot;hash&quot; : &quot;C_-62617918_-382764867&quot; }"> <div class="itineraries">  <div class="sub-cluster outbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-outbound"></span> </li> <li class="type"> <span> Ida </span> </li> <li class="city"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 4, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">CWB</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 4, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">MAO</a> </li> <li class="date"> <span>Sábado 14 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 4, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="4-outbound-0"> <ul> <li class="radio"> <input type="radio" name="4-outbound" id="4-outbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">07:54</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">15:07</strong> </li> <li class="time"> <span>9h 13m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Azul</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 4, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 1 }"> <label for="4-outbound-1"> <ul> <li class="radio"> <input type="radio" name="4-outbound" id="4-outbound-1"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">10:18</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">15:07</strong> </li> <li class="time"> <span>6h 49m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Azul</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de ida.</li> </ul> </div>   <div class="sub-cluster inbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-inbound"></span> </li> <li class="type"> <span>Volta</span> </li> <li class="city"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 4, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">MAO</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 4, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">CWB</a> </li> <li class="date"> <span>Domingo 29 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 4, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="4-inbound-0"> <ul> <li class="radio"> <input type="radio" name="4-inbound" id="4-inbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">01:40</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">10:20</strong> </li> <li class="time"> <span>6h 40m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_adlogo.png" alt="Azul" title="Azul" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Azul</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de volta.</li> </ul> </div>  <div class="actions">  <a href="#" class="payments">Até 6 vezes!</a>  <div class="icons"> <a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title="Imprimir"></a> </div>  <span class="message"></span>  </div> </div> <div class="fare-container"> <span class="fare-description">Tarifa por adulto</span> <span class="fare">  <span class="price-currency BRL"> <span class="currency">R$</span> <span class="amount">1.194</span> </span>  </span> <a href="#" class="buy btn-buy buttonSprite globalSmallRedButton"> <span>Comprar</span> </a>  <span class="tickets-left">Último lugar!</span>  </div> </div>  <div class="cluster" data-cluster-info="{ &quot;index&quot; : 5, &quot;hash&quot; : &quot;C_815371766&quot; }"> <div class="itineraries">  <div class="sub-cluster outbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-outbound"></span> </li> <li class="type"> <span> Ida </span> </li> <li class="city"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 5, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">CWB</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 5, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">MAO</a> </li> <li class="date"> <span>Sábado 14 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 5, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="5-outbound-0"> <ul> <li class="radio"> <input type="radio" name="5-outbound" id="5-outbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">06:53</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">13:54</strong> </li> <li class="time"> <span>8h 1m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de ida.</li> </ul> </div>   <div class="sub-cluster inbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-inbound"></span> </li> <li class="type"> <span>Volta</span> </li> <li class="city"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 5, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">MAO</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 5, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">CWB</a> </li> <li class="date"> <span>Domingo 29 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 5, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="5-inbound-0"> <ul> <li class="radio"> <input type="radio" name="5-inbound" id="5-inbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">15:52</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">22:30</strong> </li> <li class="time"> <span>5h 38m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de volta.</li> </ul> </div>  <div class="actions">  <a href="#" class="payments">Até 6 vezes!</a>  <div class="icons"> <a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title="Imprimir"></a> </div>  <span class="message"></span>  </div> </div> <div class="fare-container"> <span class="fare-description">Tarifa por adulto</span> <span class="fare">  <span class="price-currency BRL"> <span class="currency">R$</span> <span class="amount">1.220</span> </span>  </span> <a href="#" class="buy btn-buy buttonSprite globalSmallRedButton"> <span>Comprar</span> </a>  <span class="tickets-left">Últimos 6 lugares!</span>  </div> </div>  <div class="cluster" data-cluster-info="{ &quot;index&quot; : 6, &quot;hash&quot; : &quot;C_2000493051_-1336702580_457100228&quot; }"> <div class="itineraries">  <div class="sub-cluster outbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-outbound"></span> </li> <li class="type"> <span> Ida </span> </li> <li class="city"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 6, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">CWB</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 6, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">MAO</a> </li> <li class="date"> <span>Sábado 14 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 6, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="6-outbound-0"> <ul> <li class="radio"> <input type="radio" name="6-outbound" id="6-outbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">06:53</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">12:05</strong> </li> <li class="time"> <span>6h 12m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de ida.</li> </ul> </div>   <div class="sub-cluster inbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-inbound"></span> </li> <li class="type"> <span>Volta</span> </li> <li class="city"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 6, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">MAO</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 6, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">CWB</a> </li> <li class="date"> <span>Domingo 29 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 6, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="6-inbound-0"> <ul> <li class="radio"> <input type="radio" name="6-inbound" id="6-inbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">02:40</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">15:17</strong> </li> <li class="time"> <span>11h 37m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 6, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 1 }"> <label for="6-inbound-1"> <ul> <li class="radio"> <input type="radio" name="6-inbound" id="6-inbound-1"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">02:40</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">15:17</strong> </li> <li class="time"> <span>11h 37m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 6, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 2 }"> <label for="6-inbound-2"> <ul> <li class="radio"> <input type="radio" name="6-inbound" id="6-inbound-2"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">02:40</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">16:27</strong> </li> <li class="time"> <span>12h 47m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de volta.</li> </ul> </div>  <div class="actions">  <a href="#" class="payments">Até 6 vezes!</a>  <div class="icons"> <a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title="Imprimir"></a> </div>  <span class="message"></span>  </div> </div> <div class="fare-container"> <span class="fare-description">Tarifa por adulto</span> <span class="fare">  <span class="price-currency BRL"> <span class="currency">R$</span> <span class="amount">1.310</span> </span>  </span> <a href="#" class="buy btn-buy buttonSprite globalSmallRedButton"> <span>Comprar</span> </a>  </div> </div>  <div class="cluster" data-cluster-info="{ &quot;index&quot; : 7, &quot;hash&quot; : &quot;C_-484926142_1211859342_126379157_201105779&quot; }"> <div class="itineraries">  <div class="sub-cluster outbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-outbound"></span> </li> <li class="type"> <span> Ida </span> </li> <li class="city"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 7, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">CWB</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 7, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">MAO</a> </li> <li class="date"> <span>Sábado 14 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 7, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="7-outbound-0"> <ul> <li class="radio"> <input type="radio" name="7-outbound" id="7-outbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">12:10</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">22:55</strong> </li> <li class="time"> <span>11h 45m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 7, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 1 }"> <label for="7-outbound-1"> <ul> <li class="radio"> <input type="radio" name="7-outbound" id="7-outbound-1"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">12:10</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">22:55</strong> </li> <li class="time"> <span>11h 45m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 7, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 2 }"> <label for="7-outbound-2"> <ul> <li class="radio"> <input type="radio" name="7-outbound" id="7-outbound-2"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">14:01</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">22:55</strong> </li> <li class="time"> <span>9h 54m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 7, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 3 }"> <label for="7-outbound-3"> <ul> <li class="radio"> <input type="radio" name="7-outbound" id="7-outbound-3"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">14:01</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">22:55</strong> </li> <li class="time"> <span>9h 54m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de ida.</li> </ul> </div>   <div class="sub-cluster inbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-inbound"></span> </li> <li class="type"> <span>Volta</span> </li> <li class="city"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 7, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">MAO</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 7, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">CWB</a> </li> <li class="date"> <span>Domingo 29 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 7, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="7-inbound-0"> <ul> <li class="radio"> <input type="radio" name="7-inbound" id="7-inbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">15:52</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">22:30</strong> </li> <li class="time"> <span>5h 38m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de volta.</li> </ul> </div>  <div class="actions">  <a href="#" class="payments">Até 6 vezes!</a>  <div class="icons"> <a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title="Imprimir"></a> </div>  <span class="message"></span>  </div> </div> <div class="fare-container"> <span class="fare-description">Tarifa por adulto</span> <span class="fare">  <span class="price-currency BRL"> <span class="currency">R$</span> <span class="amount">1.310</span> </span>  </span> <a href="#" class="buy btn-buy buttonSprite globalSmallRedButton"> <span>Comprar</span> </a>  </div> </div>  <div class="cluster" data-cluster-info="{ &quot;index&quot; : 8, &quot;hash&quot; : &quot;C_-2056913358&quot; }"> <div class="itineraries">  <div class="sub-cluster outbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-outbound"></span> </li> <li class="type"> <span> Ida </span> </li> <li class="city"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 8, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">CWB</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 8, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">MAO</a> </li> <li class="date"> <span>Sábado 14 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 8, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="8-outbound-0"> <ul> <li class="radio"> <input type="radio" name="8-outbound" id="8-outbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">06:53</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">12:05</strong> </li> <li class="time"> <span>6h 12m</span> </li> <li class="stops"> <a href="#" class="text">  1 Parada  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de ida.</li> </ul> </div>   <div class="sub-cluster inbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-inbound"></span> </li> <li class="type"> <span>Volta</span> </li> <li class="city"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 8, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">MAO</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 8, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">CWB</a> </li> <li class="date"> <span>Domingo 29 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 8, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="8-inbound-0"> <ul> <li class="radio"> <input type="radio" name="8-inbound" id="8-inbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">16:32</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">07:56</strong> </li> <li class="time"> <span>14h 24m</span> </li> <li class="stops"> <a href="#" class="text">  3 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de volta.</li> </ul> </div>  <div class="actions">  <a href="#" class="payments">Até 6 vezes!</a>  <div class="icons"> <a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title="Imprimir"></a> </div>  <span class="message"></span>  </div> </div> <div class="fare-container"> <span class="fare-description">Tarifa por adulto</span> <span class="fare">  <span class="price-currency BRL"> <span class="currency">R$</span> <span class="amount">1.320</span> </span>  </span> <a href="#" class="buy btn-buy buttonSprite globalSmallRedButton"> <span>Comprar</span> </a>  </div> </div>  <div class="cluster" data-cluster-info="{ &quot;index&quot; : 9, &quot;hash&quot; : &quot;C_2036798035_-1300397596_-1263102162&quot; }"> <div class="itineraries">  <div class="sub-cluster outbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-outbound"></span> </li> <li class="type"> <span> Ida </span> </li> <li class="city"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 9, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">CWB</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 9, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">MAO</a> </li> <li class="date"> <span>Sábado 14 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary " data-itinerary-info="{ &quot;clusterIndex&quot; : 9, &quot;itineraryType&quot; : &quot;outbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="9-outbound-0"> <ul> <li class="radio"> <input type="radio" name="9-outbound" id="9-outbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">06:53</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">13:54</strong> </li> <li class="time"> <span>8h 1m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de ida.</li> </ul> </div>   <div class="sub-cluster inbound"> <ul class="item data"> <li class="type-icon"> <span class="main-sprite icon-plane-inbound"></span> </li> <li class="type"> <span>Volta</span> </li> <li class="city"> Manaus, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 9, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;departure&quot; }">MAO</a> </li> <li> <span class="main-sprite icon-arrow"></span> </li> <li class="city-arrival"> Curitiba, </li> <li class="airport"> <a data-location-info="{ &quot;clusterIndex&quot; : 9, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;locationType&quot; : &quot;arrival&quot; }">CWB</a> </li> <li class="date"> <span>Domingo 29 Julho, 2012</span> </li> </ul> <ul class="itineraries-group">  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 9, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 0 }"> <label for="9-inbound-0"> <ul> <li class="radio"> <input type="radio" name="9-inbound" id="9-inbound-0"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">02:40</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">15:17</strong> </li> <li class="time"> <span>11h 37m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 9, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 1 }"> <label for="9-inbound-1"> <ul> <li class="radio"> <input type="radio" name="9-inbound" id="9-inbound-1"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">02:40</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">15:17</strong> </li> <li class="time"> <span>11h 37m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item itinerary itinerary-required" data-itinerary-info="{ &quot;clusterIndex&quot; : 9, &quot;itineraryType&quot; : &quot;inbound&quot;, &quot;itineraryIndex&quot; : 2 }"> <label for="9-inbound-2"> <ul> <li class="radio"> <input type="radio" name="9-inbound" id="9-inbound-2"> </li> <li class="leave"> <span>Sai:</span> <strong class="hour">02:40</strong> </li> <li class="arrive"> <span>Chega:</span> <strong class="hour">16:27</strong> </li> <li class="time"> <span>12h 47m</span> </li> <li class="stops"> <a href="#" class="text">  2 Paradas  </a>  </li>  <li class="logo"> <span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_t4logo.png" alt="Trip" title="Trip" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'"></span>  </li>  <li class="name"> <strong>Trip</strong> </li>   <li class="error"> <span class="main-sprite icon-error"></span> </li> </ul> </label> </li>  <li class="item error-message">Por favor, selecione um horário de volta.</li> </ul> </div>  <div class="actions">  <a href="#" class="payments">Até 6 vezes!</a>  <div class="icons"> <a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title="Imprimir"></a> </div>  <span class="message"></span>  </div> </div> <div class="fare-container"> <span class="fare-description">Tarifa por adulto</span> <span class="fare">  <span class="price-currency BRL"> <span class="currency">R$</span> <span class="amount">1.410</span> </span>  </span> <a href="#" class="buy btn-buy buttonSprite globalSmallRedButton"> <span>Comprar</span> </a>  <span class="tickets-left">Últimos 6 lugares!</span>  </div> </div></div>
+<script id="airlines-template" type="text/x-jquery-tmpl">
+{{each(airlineIndex, airline) airlines}}
+<li class="logo">
+<span class="image"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_{{= FlightsWeb.Common.TmplFunctions.convertToLowerCase(airline.code) }}logo.png" alt="{{= airline.description }}" title="{{= airline.description }}" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'" /></span>
+{{if (airlineIndex != airlines.length - 1)}}
+<span class="mainsprite icon-plus"></span>
+{{/if}}
+</li>
+{{if airlines.length == 1}}
+<li class="name">
+<strong>{{= airline.description }}</strong>
+</li>
+{{/if}}
+{{/each}}
+</script>
+<script id="fare-ADTBASEFARE-template" type="text/x-jquery-tmpl">
+<span class="fare-description">Tarifa por adulto</span>
+<span class="fare">
+{{each(i, currency) adult.basesFares}}
+<span class="price-currency {{= formatted.code}}">
+<span class="currency">{{= formatted.mask}}</span>
+<span class="amount">{{= formatted.amount}}</span>
+</span>
+{{/each}}
+</span>
+</script>
+<script id="payments-template" type="text/x-jquery-tmpl">
+{{if FlightsWeb.Common.TmplFunctions.getMaxNumberOfInstalments(numberOfInstalments) > 1}}
+<a href="#" class="payments">Até {{= FlightsWeb.Common.TmplFunctions.getMaxNumberOfInstalments(numberOfInstalments) }} vezes!</a>
+{{/if}}
+</script>
+<script id="tickets-left-template" type="text/x-jquery-tmpl">
+{{if ($data == 1) }}
+<span class="tickets-left">Último lugar!</span>
+{{else ($data > 1) }}
+<span class="tickets-left">Últimos {{= $data }} lugares!</span>
+{{/if}}
+</script>
+<script id="reviews-template" type="text/x-jquery-tmpl">
+{{if $data.overallScore }}
+<a href="#" class="reviews">
+{{= $data.overallScore.description }}, {{= $data.overallScore.score }} pts </a>
+{{/if}}
+</script>
+<script id="icons-template" type="text/x-jquery-tmpl">
+<div class="icons">
+<a href="/shop/flights/print/CWB/MAO/1/0/0/ROUNDTRIP/DOMESTIC" class="main-sprite icon-print" title='Imprimir'></a>
+</div>
+</script>
+<script id="baggage-fees-template" type="text/x-jquery-tmpl">
+</script>
+<script id="popup-airport-template" type="text/x-jquery-tmpl">
+<div class="popup-airport">
+<span class="city">{{= city.description}}</span>
+<span class="airport">{{= airport.description}}</span>
+</div>
+</script>
+<script id="popup-detail-template" type="text/x-jquery-tmpl">
+<div class="popup-detail">
+{{each(segmentIndex, segment) segments}}
+<div class="segment">
+<ul class="detail-info">
+<li class="data">
+<span class="name">{{= FlightsWeb.Common.TmplFunctions.showNameSegment(segmentIndex, ["Primeiro trecho", "Segundo trecho", "Terceiro trecho", "Quarto trecho", "Quinto trecho", "Sexto trecho"]
+) }}</span>
+<span>-</span>
+<span class="number">Vôo {{= segment.flightNumber}}</span>
+<span>-</span>
+<span class="class">{{= FlightsWeb.Common.TmplFunctions.showCabinType(segment.marketingCabinType, {
+"YC": "Classe Econômica",
+"YS": "Classe Econômica",
+"C": "Classe Executiva/Business",
+"F": "Primeira Classe",
+"S": "Classe Premium Econômica",
+"J": "Classe Premium Executiva",
+"P": "Classe Premium Primeira"
+}
+) }}</span>
+<span class="airline">
+<span class="logo"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_{{= FlightsWeb.Common.TmplFunctions.convertToLowerCase(segment.carrier.code)}}logo.png" alt="{{= segment.carrier.description }}" title="{{= segment.carrier.description }}" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'" /></span>
+<strong class="name">{{= segment.carrier.description }}</strong>
+</span>
+</li>
+<li class="itinerary">
+<span class="location">Sai de {{= segment.departure.location.city.description }}, {{= segment.departure.location.airport.description }} ({{= segment.departure.location.airport.code }})</span>
+<span class="date">{{= segment.departure.date }}</span>
+</li>
+<li class="itinerary">
+<span class="location">Chega a {{= segment.arrival.location.city.description }}, {{= segment.arrival.location.airport.description }} ({{= segment.arrival.location.airport.code }})</span>
+<span class="date">{{= segment.arrival.date }}</span>
+</li>
+{{if segment.carrier.code != segment.operatingCarrier.code }}
+<li>
+<ul class="operated-by">
+<li class="title">Vôo operado por:</li>
+<li class="logo"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_{{= FlightsWeb.Common.TmplFunctions.convertToLowerCase(segment.operatingCarrier.code) }}logo.png" alt="{{= segment.operatingCarrier.description }}" title="{{= segment.operatingCarrier.description }}" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'" /></li>
+<li class="name"><strong>{{= segment.operatingCarrier.description }}</strong></li>
+</ul>
+</li>
+{{/if}}
+{{if segment.stopovers}}
+<li class="stops">
+<ul>
+<li class="title">Paradas:</li>
+{{each(stopOverIndex, stopOver) segment.stopovers}}
+<li class ="stop">- {{= stopOver.location.city.description }}, {{= stopOver.duration }}</li>
+{{/each}}
+</ul>
+</li>
+{{/if}}
+</ul>
+{{if segment.review}}
+<div class="reviews-data">
+<a href="#" class="qualification qualification-{{= segmentIndex }}" data-review-info='{ "code" : "{{= segment.carrier.code }}" }'>
+{{= segment.review.overallScore.description }}, {{= segment.review.overallScore.score }} pontos </a>
+<span class="comments">
+{{= segment.review.quantity }} avaliações </span>
+</div>
+{{/if}}
+</div>
+<span class="time">
+{{if segmentIndex != (segments.length - 1)}}
+{{if $data.segments[(segmentIndex + 1)].waitDuration != "" }}
+Conexão em {{= $data.segments[(segmentIndex + 1)].departure.location.city.description }} com espera de {{= $data.segments[(segmentIndex + 1)].waitDuration }} {{else}}
+Conexão em {{= $data.segments[(segmentIndex + 1)].departure.city.description }} {{/if}}
+{{if segment.arrival.location.airport.code != $data.segments[(segmentIndex + 1)].departure.location.airport.code}}
+com mudança de aeroporto {{/if}}
+{{else}}
+Duração total do vôo: {{= $data.totalDuration }} {{/if}}
+</span>
+{{/each}}
+<span class="bottom-box">
+<a href="#" class="show-rules">Resumo das regras e restrições do bilhete &raquo;</a>
+<span>Horários em hora local de cada cidade</span>
+</span>
+<div class="rules">
+<span class="airline">
+<span class="logo">
+{{each(airlineIndex, airline) airlines}}
+<span><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_{{= FlightsWeb.Common.TmplFunctions.convertToLowerCase(airline.code) }}logo.png" alt="{{= airline.description }}" title="{{= airline.description }}" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'" /></span>
+{{if (airlineIndex != airlines.length - 1)}}
+<span class="mainsprite icon-plus"></span>
+{{/if}}
+{{if airlines.length == 1}}
+<span class="name">
+<strong>{{= airline.description }}</strong>
+</span>
+{{/if}}
+{{/each}}
+</span>
+</span>
+<div class="text">
+<p>O bilhete que voc&#234; est&#225; para adquirir est&#225; sujeito a regras e restri&#231;&#245;es impostas pela companhia a&#233;rea transportadora. Em muitos casos os bilhetes t&#234;m grandes restri&#231;&#245;es quanto ao seu reembolso ou mudan&#231;as de trechos. Al&#233;m das restri&#231;&#245;es aplicadas, existem cobran&#231;as de taxas e multas tanto por parte da companhia a&#233;rea transportadora quanto por parte do Decolar.com. Se voc&#234; deseja conhecer as eventuais multas e restri&#231;&#245;es que a companhia a&#233;rea determina, voc&#234; poder&#225; ler o texto tal qual nos &#233; disponibilizado clicando <a href='/Search/Flights/Rules.aspx' target='_blank'>aqui</a> (Ler o texto completo). Se voc&#234; tem duvidas sobre as regras providas pela transportadora, voc&#234; poder&#225; chamar diretamente a companhia a&#233;rea ou o nosso call center 11-2244-7000. As regras que se aplicam ao seu bilhete est&#227;o atreladas &#224; classe de tarifa, sendo cada vez mais amplas &#224; medida que o desconto promocional seja maior. Vale ressaltar que todas as regras s&#227;o autorizadas pelo Departamento de Avia&#231;&#227;o Civil, DAC, estando descritas nos sistemas globais de reserva onde n&#227;o podem sofrer altera&#231;&#245;es. Nenhuma informa&#231;&#227;o verbal dada por parte da companhia a&#233;rea ou por parte de algum agente Decolar.com ser&#225; v&#225;lida caso a mesma n&#227;o seja informada por escrito para voc&#234;. </p>
+<p>Adicionalmente &#224;s multas e encargos cobrados pela companhia a&#233;rea transportadora em todos os casos de cancelamento, devolu&#231;&#227;o, mudan&#231;a de data de viagem, etc. o Decolar.com tamb&#233;m cobrar&#225; por seus servi&#231;os extras, seguindo sempre os valores discriminados na tabela do sindicato das empresas de turismo do estado de S&#227;o Paulo. </p>
+</div>
+</div>
+</div>
+</script>
+<script id="popup-payments-template" type="text/x-jquery-tmpl">
+<div class="popup-payments">
+{{if payments.length > 7}}
+<div class="payments">
+<span class="payments-arrow payments-prev" style="display: none;">&lt;</span>
+<span class="payments-arrow payments-next">&gt;</span>
+<div class="payments-container">
+{{/if}}
+{{each payments}}
+<ul>
+<li class="head"><span class="cardsSprite brand{{= creditCard.code}}" title="{{= creditCard.description}}"></span></li>
+{{if maxNumberOfInstalments }}
+<li>
+{{= maxNumberOfInstalments }}
+</li>
+{{/if}}
+</ul>
+{{/each}}
+{{if payments.length > 7}}
+</div>
+</div>
+{{/if}}
+</div>
+</script>
+<script id="popup-email-template" type="text/x-jquery-tmpl">
+<div class="popup-email">
+<form class="send-mail">
+<label for="sender">
+<span class="form-detail">De (e-mail)</span>
+<div class="input-container required">
+<input class="input email sender" type="text" id="sender" name="sender" value="">
+<span class="main-sprite icon-error"></span>
+<span class="empty-error-message">Por favor, insira seu e-mail.</span>
+<span class="invalid-error-message">Por favor insira um e-mail válido.</span>
+</div>
+</label>
+<label for="receiver">
+<span class="form-detail">Para (e-mail)</span>
+<div class="input-container required">
+<input class="input email receiver" id="receiver" type="text" name="receiver" value="">
+<span class="main-sprite icon-error"></span>
+<span class="input-detail">Incluia mais e-mails separando com virgula.</span>
+<span class="empty-error-message">Por favor, insira o e-mail do destinatário</span>
+<span class="invalid-error-message">Por favor insira um e-mail válido.</span>
+</div>
+</label>
+<label for="subject">
+<span class="form-detail">Assunto</span>
+<div class="input-container">
+<input class="input subject placeholder" id="subject" type="text" name="subject" placeholder="Recomendações de voo para Manaus">
+<span class="main-sprite icon-error"></span>
+<span class="empty-error-message">Por favor insira o assunto</span>
+</div>
+</label>
+<label for="message">
+<span class="form-detail">Comentário</span>
+<div class="input-container">
+<textarea class="input message" id="message" name="message" cols="42" rows="4"></textarea>
+<span class="main-sprite icon-error"></span>
+<span class="empty-error-message">Por favor insira um comentário</span>
+</div>
+</label>
+<label for="send-copy">
+<span class="form-detail"></span>
+<div class="input-container">
+<input type="checkbox" class="send-copy" id="send-copy" name="send-copy" value="">
+<span>Enviar cópia para meu e-mail</span>
+</div>
+</label>
+<a class="btn-send buttonSprite globalSmallBlueButton">
+<span>Enviar</span>
+</a>
+</form>
+</div>
+</script>
+<script id="popup-reviews-template" type="text/x-jquery-tmpl">
+<div class="popup-reviews">
+<div class="titlePopUpContainer">
+<span class="titlePopUp">
+<span class="airline">
+<span class="logo"><img src="http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_{{= FlightsWeb.Common.TmplFunctions.convertToLowerCase($data.airline.code) }}logo.png" alt="{{= $data.airline.description }}" title="{{= $data.airline.description }}" onerror="this.src='http://br.staticontent.com/img-versioned/1.6.0/common/airlines/25x25/ag_logo.png'" /></span>
+<span class="name">{{= $data.airline.description }}</span>
+</span>
+<div class="review">
+<span class="qualification">
+{{= $data.overallScore.description }}, {{= $data.overallScore.score }} de 10 pontos </span>
+<span class="comments">
+{{= $data.quantity }} avaliações </span>
+</div>
+</span>
+</div>
+<div class="details">
+{{tmpl($data.inAirportDetails) "#popup-reviews-items-template"}}
+{{tmpl($data.inPlaneDetails) "#popup-reviews-items-template"}}
+</div>
+</div>
+</script>
+<script id="popup-reviews-items-template" type="text/x-jquery-tmpl">
+<ul class="items">
+<li class="item first">
+<ul>
+<li class="description">{{= $data.average.description }}</li>
+<li class="bars">
+<span class="commonSprite empty-bars">
+<span class="commonSprite full-bars" style="width: {{= FlightsWeb.Common.TmplFunctions.getPercent($data.average.score) }}%;"></span>
+</span>
+</li>
+<li class="points">{{= $data.average.score }}</li>
+</ul>
+</li>
+{{each(categoryIndex, category) $data.categories}}
+<li class="item">
+<ul>
+<li class="description">{{= category.description }}</li>
+<li class="bars">
+<span class="commonSprite empty-bars">
+<span class="commonSprite full-bars" style="width: {{= FlightsWeb.Common.TmplFunctions.getPercent(category.score) }}%;"></span>
+</span>
+</li>
+<li class="points">{{= category.score }}</li>
+</ul>
+</li>
+{{/each}}
+</ul>
+</script>
+<script id="cluster-template" type="text/x-jquery-tmpl">
+{{each(clusterIndex, cluster) $data.result.items}}
+<div class="cluster" data-cluster-info='{ "index" : {{= clusterIndex }}, "hash" : "{{= $data.result.items[clusterIndex].id }}" }'>
+<div class="itineraries">
+{{if cluster.itinerariesBox.outboundRoutes.length}}
+<div class="sub-cluster outbound">
+<ul class="item data">
+<li class="type-icon">
+<span class="main-sprite icon-plane-outbound"></span>
+</li>
+<li class="type">
+<span>
+Ida </span>
+</li>
+<li class="city">
+{{= cluster.itinerariesBox.outboundLocations.departure.city.description}},
+</li>
+<li class="airport">
+<a data-location-info='{ "clusterIndex" : {{= clusterIndex }}, "itineraryType" : "outbound", "locationType" : "departure" }'>{{= cluster.itinerariesBox.outboundLocations.departure.airport.code}}</a>
+</li>
+<li>
+<span class="main-sprite icon-arrow"></span>
+</li>
+<li class="city-arrival">
+{{= cluster.itinerariesBox.outboundLocations.arrival.city.description}},
+</li>
+<li class="airport">
+<a data-location-info='{ "clusterIndex" : {{= clusterIndex }}, "itineraryType" : "outbound", "locationType" : "arrival" }'>{{= cluster.itinerariesBox.outboundLocations.arrival.airport.code}}</a>
+</li>
+<li class="date">
+<span>{{= $data.result.items[clusterIndex].itinerariesBox.outboundRoutes[0].departureDateTime.formatted.date }}</span>
+</li>
+</ul>
+<ul class="itineraries-group">
+{{each(itineraryIndex, itinerary) $data.result.items[clusterIndex].itinerariesBox.outboundRoutes}}
+<li class="item itinerary {{if $data.result.items[clusterIndex].itinerariesBox.outboundRoutes.length > 1}}itinerary-required{{/if}}" data-itinerary-info='{ "clusterIndex" : {{= clusterIndex }}, "itineraryType" : "outbound", "itineraryIndex" : {{= itineraryIndex }} }'>
+<label for="{{= clusterIndex }}-outbound-{{= itineraryIndex }}">
+<ul>
+<li class="radio">
+<input type="radio" name="{{= clusterIndex }}-outbound" id="{{= clusterIndex }}-outbound-{{= itineraryIndex }}" />
+</li>
+<li class="leave">
+<span>Sai:</span>
+<strong class="hour">{{= itinerary.departureDateTime.formatted.time }}</strong>
+</li>
+<li class="arrive">
+<span>Chega:</span>
+<strong class="hour">{{= itinerary.arrivalDateTime.formatted.time }}</strong>
+</li>
+<li class="time">
+<span>{{= itinerary.totalDuration }}</span>
+</li>
+<li class="stops">
+<a href="#" class="text">
+{{if itinerary.stopCount == 0}}
+Direto
+{{else itinerary.stopCount == 1}}
+{{= itinerary.stopCount }} Parada
+{{else}}
+{{= itinerary.stopCount }} Paradas
+{{/if}}
+</a>
+{{if itinerary.cityAirportChange }}
+<span class="main-sprite icon-bus"></span>
+{{/if}}
+</li>
+{{tmpl($data.result.items[clusterIndex].itinerariesBox.outboundRoutes[itineraryIndex]) "#airlines-template"}}
+<li class="error">
+<span class="main-sprite icon-error"></span>
+</li>
+</ul>
+</label>
+</li>
+{{/each}}
+<li class="item error-message">Por favor, selecione um horário de ida.</li>
+</ul>
+</div>
+{{/if}}
+{{if cluster.itinerariesBox.inboundRoutes.length}}
+<div class="sub-cluster inbound">
+<ul class="item data">
+<li class="type-icon">
+<span class="main-sprite icon-plane-inbound"></span>
+</li>
+<li class="type">
+<span>Volta</span>
+</li>
+<li class="city">
+{{= cluster.itinerariesBox.inboundLocations.departure.city.description}},
+</li>
+<li class="airport">
+<a data-location-info='{ "clusterIndex" : {{= clusterIndex }}, "itineraryType" : "inbound", "locationType" : "departure" }'>{{= cluster.itinerariesBox.inboundLocations.departure.airport.code}}</a>
+</li>
+<li>
+<span class="main-sprite icon-arrow"></span>
+</li>
+<li class="city-arrival">
+{{= cluster.itinerariesBox.inboundLocations.arrival.city.description}},
+</li>
+<li class="airport">
+<a data-location-info='{ "clusterIndex" : {{= clusterIndex }}, "itineraryType" : "inbound", "locationType" : "arrival" }'>{{= cluster.itinerariesBox.inboundLocations.arrival.airport.code}}</a>
+</li>
+<li class="date">
+<span>{{= $data.result.items[clusterIndex].itinerariesBox.inboundRoutes[0].departureDateTime.formatted.date }}</span>
+</li>
+</ul>
+<ul class="itineraries-group">
+{{each(itineraryIndex, itinerary) $data.result.items[clusterIndex].itinerariesBox.inboundRoutes}}
+<li class="item itinerary {{if $data.result.items[clusterIndex].itinerariesBox.inboundRoutes.length > 1}}itinerary-required{{/if}}" data-itinerary-info='{ "clusterIndex" : {{= clusterIndex }}, "itineraryType" : "inbound", "itineraryIndex" : {{= itineraryIndex }} }'>
+<label for="{{= clusterIndex }}-inbound-{{= itineraryIndex }}">
+<ul>
+<li class="radio">
+<input type="radio" name="{{= clusterIndex }}-inbound" id="{{= clusterIndex }}-inbound-{{= itineraryIndex }}" />
+</li>
+<li class="leave">
+<span>Sai:</span>
+<strong class="hour">{{= itinerary.departureDateTime.formatted.time }}</strong>
+</li>
+<li class="arrive">
+<span>Chega:</span>
+<strong class="hour">{{= itinerary.arrivalDateTime.formatted.time }}</strong>
+</li>
+<li class="time">
+<span>{{= itinerary.totalDuration }}</span>
+</li>
+<li class="stops">
+<a href="#" class="text">
+{{if itinerary.stopCount == 0}}
+Direto
+{{else itinerary.stopCount == 1}}
+{{= itinerary.stopCount }} Parada
+{{else}}
+{{= itinerary.stopCount }} Paradas
+{{/if}}
+</a>
+{{if itinerary.cityAirportChange }}
+<span class="main-sprite icon-bus"></span>
+{{/if}}
+</li>
+{{tmpl($data.result.items[clusterIndex].itinerariesBox.inboundRoutes[itineraryIndex]) "#airlines-template"}}
+<li class="error">
+<span class="main-sprite icon-error"></span>
+</li>
+</ul>
+</label>
+</li>
+{{/each}}
+<li class="item error-message">Por favor, selecione um horário de volta.</li>
+</ul>
+</div>
+{{/if}}
+<div class="actions">
+{{tmpl($data.result.items[clusterIndex].itinerariesBox.paymentsInfo, FlightsWeb.Common.TmplFunctions.functions) "#payments-template"}}
+{{tmpl "#icons-template"}}
+{{if $data.result.items[clusterIndex].itinerariesBox.commercialPolicyDescription != ""}}
+<span class="message">{{= $data.result.items[clusterIndex].itinerariesBox.commercialPolicyDescription }}</span>
+{{/if}}
+</div>
+</div>
+<div class="fare-container">
+{{tmpl($data.result.items[clusterIndex].itinerariesBox.itinerariesBoxPriceInfo, FlightsWeb.Common.TmplFunctions.functions) FlightsWeb.Common.TmplFunctions.getFareId($data.result.metadata.fareSelectorType)}}
+<a href="#" class="buy btn-buy buttonSprite globalSmallRedButton">
+<span>Comprar</span>
+</a>
+{{tmpl($data.result.items[clusterIndex].itinerariesBox.seatsRemaining) "#tickets-left-template"}}
+</div>
+</div>
+{{/each}}
+{{tmpl "#baggage-fees-template"}}
+</script>
+<div class="results-pagination" id="results-pagination"><ul class="pages"><ul class="pages"><li class="current">1</li><li class="page">2</li><li class="page">3</li><li class="page">4</li><li class="page">5</li><li class="page">6</li></ul></ul></div>
+</div>
+<!--[if lte IE 8 ]>
+<span class="commonSprite mainCornerBL"></span>
+<span class="commonSprite mainCornerBR"></span>
+<![endif]-->
+</div>
+<div id="footer" class="footer">
+<!--footer-html-->
+<div class="footerTop">
+<div class="about">
+<h4 class="title">Sobre Decolar.com</h4>
+<ul id="aboutList">
+<li class="item" id=""><span>Política de privacidade</span></li><li class="item" id=""><span>Melhor preço garantido</span></li><li class="item" id=""><span>Compra segura</span></li><li class="item" id=""><span>Anuncie seu hotel</span></li><li class="item" id=""><span>Programa de afiliados</span></li><li class="item" id=""><span>Anuncie no Decolar.com</span></li><li class="item pressPopup" id=""><span>Contato para a imprensa</span></li><li class="item" id=""><span>Empregos</span></li></ul>
+<ul id="blogLink">
+<li class="item">
+<a href="http://blog.decolar.com/" target="_blank" class="item">Blog do Decolar</a>
+</li>
+</ul>
+</div>
+<div class="topSearched">
+<h4 class="title">Mais procurados</h4>
+<ul class="linkList">
+<li class="item">
+<a href="http://www.decolar.com/passagens-aereas/sao/bue/passagens-aereas-para-buenos+aires-saindo-de-sao+paulo" title="Passagens Aereas Buenos Aires">Passagens aéreas para Buenos Aires</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/passagens-aereas/sao/ssa/passagens-aereas-para-salvador-saindo-de-sao+paulo" title="Passagem para Salvador">Passagem para Salvador</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/linhasaereas/azul-linhas-aereas.html" title="Azul Linhas Aéreas">Azul Linhas Aéreas</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/hoteis/" title="Hotéis">Hotéis</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/hoteis/hl/ssa/i1/hoteis-em-salvador" title="Hotéis em Salvador">Hotéis em Salvador</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/linhasaereas/tam-linhas-aereas.html" title="Tam Linhas Aéreas">Tam Linhas Aéreas</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/passagens-aereas/sao/mia/passagens-aereas-para-miami-saindo-de-sao+paulo" title="Passagens Miami">Passagens para Miami</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/linhasaereas/american-airlines.html" title="American Airlines">American Airlines</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/hoteis/hl/rio/i1/hoteis-em-rio+de+janeiro" title="Hotéis no Rio de Janeiro">Hotéis no Rio de Janeiro</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/passagens-aereas/sao/nat/passagens-aereas-para-natal-saindo-de-sao+paulo" title="Natal RN">Natal - Rio Grande do Norte</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/ofertas/Hoteis/Promocoes/Hoteis-na-Disney/" title="Pacotes Disney">Pacotes para Disney</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/passagens-aereas/sao/rio/passagens-aereas-para-rio+de+janeiro-saindo-de-sao+paulo" title="Passagens aéreas Rio de Janeiro">Passagens aéreas para Rio de Janeiro</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/passagens-aereas" title="Passagens Aereas Promocionais">Passagens aéreas promocionais</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/passagens-aereas/sao/nyc/passagens-aereas-para-nova+york-saindo-de-sao+paulo" title="Passagens aéreas Nova York">Passagens aéreas para Nova York</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/hoteis/hl/sao/i1/hoteis-em-sao+paulo" title="Hotéis em São Paulo">Hotéis em São Paulo</a>
+</li>
+<li class="item">
+<a href="http://www.decolar.com/linhasaereas/gol-linhas-aereas.html" title="Gol Linhas Aéreas">Gol Linhas Aéreas</a>
+</li>
+</ul>
+</div>
+<div class="offersShareBrands">
+<div class="offers">
+<div class="title">
+<span class="left">Receba grátis nossas</span>
+<span class="right">OFERTAS EXCLUSIVAS</span>
+</div>
+<div class="inputAndSubmit">
+<input type="text" name="emailBox" id="emailBox" class="offersInput" value="Insira seu e-mail">
+<a class="submit buttonSprite globalSilverButton"><span>Receber</span></a>
+</div>
+<span class="errorInputText"></span>
+</div>
+<div class="share">
+<div class="generalShareContainer"><div class="iconContainerSendMail iconShareCont"><div class="commonSprite sendToFriendIcon iconShare"></div><a class="linkSendMail" style="margin-top: 5px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; display: block; text-align: center; ">Enviar para um amigo</a></div><div class="iconContainerTwitter iconShareCont"><div class="commonSprite shareTwitterIcon iconShare"></div></div><div class="iconContainerFacebook iconShareCont"><div class="commonSprite shareFbIcon iconShare"></div></div><div class="iconContainerOrkut iconShareCont"><div class="commonSprite shareOrkutIcon iconShare"></div></div></div><div class="popUpNew" id="sharePopUp"> 		<div class="opaqueDiv"></div> 		<div class="popUpContainer"> 	        <div class="commonSprite closePopUp closeBlueIcon"></div> 	        <span class="indicator topIndicator"></span> 	        <div class="titlePopUpContainer"><span class="titlePopUp">Enviar esta página para um amigo</span></div> 			<div class="popUpContent">			<form class="shareForm">				<div class="receiverContainer">					<span class="titles">Destinatários</span>					<div class="labelAndField">						<span>E-mails</span>						<input class="textMailReceiver" type="text" value="" name="receiverMail">						<span class="textError txtErrRec"></span>					</div>				</div>				<div class="messageContainer">					<span class="titles">Comentários:</span>					<textarea class="bodyMessage" rows="2" cols="20" name="message"></textarea>				</div>				<div class="transmitterContainer">					<span class="titles">Insira seus dados</span>					<div class="labelAndField">						<span>Nome</span>						<input class="textNameTransmitter" type="text" value="" name="transmitterName">						<span class="textError txtErrNam"></span>					</div>					<div class="labelAndField">						<span>E-mail:</span>						<input class="textMailTransmitter" type="text" value="" name="mail">						<span class="textError txtErrTra"></span>					</div>				</div>				<div class="checkItems">					<input class="checkBoxMail" type="checkbox" name="spamCheck" value="spam">					<span>Desejo receber ofertas neste e-mail</span>				</div>				<button class="sendMail">					<span><em>enviar</em></span>				</button>			</form>			<div class="resultSendToFriend" style="display: none; ">				<div class="labelAndMail">					<span>Seu e-mail foi enviado para:</span>					<span class="label mailRev"></span>				</div>				<div class="labelAndMail">					<span>Desde (e-mail):</span>					<span class="label mailTra"></span>				</div>				<div class="labelAndComment">					<span>Comentário:</span>					<span class="label comm"></span>				</div>			</div>		</div> 	    </div>	</div></div>
+<div class="brands">
+<span class="commonSprite viajantesLogo"></span>
+<span class="commonSprite ciudadesLogo"></span>
+<img src="http://www.tripadvisor.com.ar/img/cdsi/langs/pt/tripadvisor_logo_158x29-12961-0.gif" class="travelersPage">
+<span class="commonSprite previajeLogo"></span>
+</div>
+</div>
+</div>
+<div class="footerMiddle">
+<div class="secureAndCountries">
+<div class="secure">
+<span class="commonSprite iata"></span><span class="geoTrust"><!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. --><script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script><a tabindex="-1" href="https://smarticon.geotrust.com/smarticonprofile?Referer=http://www.decolar.com" onclick="return gt__md();" target="GT__SIP"><img name="cikchdyf" height="55" width="115" border="0" src="//smarticon.geotrust.com/smarticon?ref=www.decolar.com" alt="Click for company profile" oncontextmenu="return false;"></a><!-- end GeoTrust Smart Icon tag --></span> </div>
+<ul class="countries">
+<li class="country">
+<a href="http://www.despegar.com.ar">Argentina</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.bo">Bolivia</a>
+</li>
+<li class="country">
+<a href="http://www.decolar.com">Brasil</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.cl">Chile</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.co">Colômbia</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.co.cr">Costa Rica</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.ec">Equador</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.sv">El Salvador</a>
+</li>
+<li class="country">
+<a href="http://www.es.despegar.com">Espanha</a>
+</li>
+<li class="country">
+<a href="http://www.us.despegar.com">Estados Unidos</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.gt">Guatemala</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.hn">Honduras</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.mx">México</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.ni">Nicarágua</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.pa">Panamá</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.py">Paraguai</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.pe">Perú</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.pr">Porto Rico</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.do">Rep. Dominicana</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.uy">Uruguai</a>
+</li>
+<li class="country">
+<a href="http://www.despegar.com.ve">Venezuela</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="footerBottom">
+<p class="copyright">
+DECOLAR.COM - Reg. EMBRATUR - SP. 30316.00.41-1. Copyright 1999-2010, <span class="website"><span class="fakeLink">Decolar.com Ltda.</span></span> Todos os direitos reservados. </p>
+<p class="legal">
+</p>
+</div>
+<!--footer-html END-->
+</div>
+<div class="results-update" style="display: none;">
+<img class="logo" src="http://br.staticontent.com/img-versioned/1.6.0/despegar/logos/decolar.gif">
+<p>Atualizando informação</p>
+<img class="loader" src="http://br.staticontent.com/shop/flights/img-versioned/1.2.6/despegar/static/loaders/loader.gif">
+</div>
+<script id="popup-best-price-template" type="text/x-jquery-tmpl">
+<div class="popup-best-price">
+<span>{{= $data.text}}</span>
+<a href="/Contents/BetterPrice/TermsAndConditions" class="best-price-guarantee">{{= $data.linkText}}</a>
+</div>
+</script>
+<script charset="utf-8" src="http://br.staticontent.com/js-versioned/1.10.4/FrameworkJS/base.js"></script>
+<script charset="utf-8" src="http://br.staticontent.com/js-versioned/1.10.4/custom/jquery-1.7.1.min.js"></script>
+<script charset="utf-8" src="http://br.staticontent.com/js-versioned/1.10.4/FrameworkJS/pkg/flights-web-results.js"></script>
+<script charset="utf-8" src="http://br.staticontent.com/shop/flights/js-versioned/1.2.6/flights-web/pkg/results.js"></script>
+<script type="text/javascript">
+$(function() {
+var servicesUrl = {
+search : '/shop/flights/data/search/{type}/{from}/{to}/{outboundDate}/{inboundDate}/{adtCount}/{chdCount}/{infCount}/{orderCriteria}/{orderDirection}/{outboundHour}/{inboundHour}/{cabinPref}/{stopsQuantity}/{airlinePrefCode}',
+refine : '/shop/flights/data/refine/ROUNDTRIP/DOMESTIC/{hash}/{version}/{filterStrategy}/{orderCriteria}/{orderDirection}/{pageIndex}/{minPrice}/{maxPrice}/{originalCurrencyPrice}/{selectedCurrencyPrice}/{allowedOutboundTimeRanges}/{allowedInboundTimeRanges}/{allowedAirlines}/{allowedStopQuantities}/{allowedOutboundAirports}/{allowedInboundAirports}/{uniqueAirline}/{uniqueHomeAirport}',
+item : '/shop/flights/data/item/ROUNDTRIP/DOMESTIC/{hash}/{version}/{itemHash}'
+};
+var options = {
+params : { type : 'roundtrip',
+from : 'CWB',
+to : 'MAO',
+outboundDate : '2012-07-14',
+adtCount : '1',
+chdCount : '0',
+infCount : '0',
+orderCriteria : 'FARE',
+orderDirection : 'ASCENDING'
+,outboundHour : 'NA',
+stopsQuantity : 'NA',
+cabinPref : 'NA',
+airlinePrefCode : 'NA'
+,inboundDate : '2012-07-29',
+inboundHour : 'NA'
+},
+initialCurrency : 'BRL',
+search : { language : 'pt',
+brand : 'despegar',
+adultsMax : '8',
+childrenMax : '7',
+cityFromDesc : 'Curitiba',
+cityToDesc : 'Manaus',
+cityFromCode : 'CWB',
+cityToCode : 'MAO',
+projectPathName : 'shop/flights',
+airlinePrefDesc : null ,
+multipledestinationsQuantity : 3 ,
+routeType : 'DOMESTIC'
+},
+checkout : { redirect : true
+}
+};
+var messages = {
+title : { bestPriceTitle : 'Decolar.com: A agencia N°1 em preço',
+bestPriceText : 'Trabalhamos todos os dias para lhe ajudar a economizar tempo e dinheiro em suas compras de viagem. Queremos que tenha a tranquilidade que cada vez que compra no Decolar.com está recebendo a melhor tarifa disponivel. Por isto garantimos que no Decolar.com você encontrará as melhores tarifas em voos e hoteis, caso você encontre uma melhor tarifa, devolvemos a diferença de até US$ 100,00 como crédito em uma futura compra em nosso site. O melhor preço garantido equivale à oferta das melhores tarifas em voos e hotéis, não inclusos impostos, encargos e taxas de serviço.',
+bestPriceGuarantee : 'Melhor preço garantido'
+},
+search : { fromDesc : 'Digite a cidade de partida',
+toDesc : 'Digite a cidade de destino',
+searchAdvance : 'Opções avançadas'
+},
+clusters : { itineraries: {
+detailTitle : 'Detalhes de vôo'
+},
+actions: {
+emailTitle : 'Compartilhar voo por e-mail',
+paymentsTitle : 'Quantidade de pagamentos'
+}
+},
+filters : { priceError : 'Por favor, verifique que o valor mínimo seja menor que o valor máximo.',
+priceMaxError : 'Por favor, reconfirme que o valor máximo seja maior que 0',
+resultsPriceError : 'Infelizmenteo não foram encontrados voos com os valores selecionados. Por favor, tente novamente com outras opções.',
+showAll : 'Ver todas &raquo;',
+showLess : 'Ver menos &laquo;',
+resultsError : 'Desculpe, não encontramos voos com o ultimo critério selecionado.',
+resultsErrorHelp : 'Desfazer a ultima ação.'
+},
+pagination : { prev : '« Anterior',
+next : 'Seguinte »'
+}
+};
+FlightsWeb.Results.init(servicesUrl, options, messages);
+});
+</script>
+<script charset="utf-8" src="http://br.staticontent.com/js-versioned/1.10.4/FrameworkJS/pkg/main.js"></script>
+<script charset="utf-8" src="http://br.staticontent.com/js-versioned/1.10.4/FrameworkJS/pkg/top-airlines-cities-br.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://br.staticontent.com/nibbler-js-versioned/21.0.0/Nibbler/Despegar/Common/DataTracker.js"></script>
+<script type="text/javascript">
+$(window).load(function() {
+//facebookLikeHeader
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+});
+</script>
+<!--header-js-->
+<script type="text/javascript">
+$(document).ready(function(){
+if(Common.DataTracker != undefined){Common.DataTracker.setServiceUrl('http://upa.despegar.com/t');}
+var popupBestPrice = Common.PopupCreatorNew({
+id:'popupBestPrice',
+title:'Decolar.com: A agencia N°1 em preço',
+noPuntita:true
+});
+var popupBestService = Common.PopupCreatorNew({
+id:'popupBestService',
+title:'Decolar: A agencia N°1 em serviço',
+noPuntita:true
+});
+$(popupBestPrice).hide();
+$(popupBestService).hide();
+$('#header').append(popupBestPrice);
+$('#header').append(popupBestService);
+$('.popUpContent','#popupBestPrice').append('<p class="popupBestServiceText">Trabalhamos todos os dias para lhe ajudar a economizar tempo e dinheiro em suas compras de viagem. Queremos que tenha a tranquilidade que cada vez que compra no Decolar.com está recebendo a melhor tarifa disponivel. Por isto garantimos que no Decolar.com você encontrará as melhores tarifas em voos e hoteis, caso você encontre uma melhor tarifa, devolvemos a diferença de até US$ 100,00 como crédito em uma futura compra em nosso site.</p><p class="popupBestServiceText">O melhor preço garantido equivale à oferta das melhores tarifas em voos e hotéis, não inclusos impostos, encargos e taxas de serviço.</p>');
+$('.popUpContent','#popupBestPrice').append('<a href="/commercial-web/betterprice/termsandconditions" target="_blank">Melhor preço garantido</a>');
+$('.popUpContent','#popupBestService').append('<p class="popupBestServiceText">"Sua satistação é a nossa prioridade.Há 10 anos trabalhamos para que a compra de seu voo e hotel seja, rapida, simples e sem surpresas. Passamos de 3 milhões de viajantes que compraram no nosso site. Faça parte deste publico e descobra porque 93% estão satisfeitos em ter comprado no Decolar.com.</p>');
+$('.popUpContent','#popupBestService').append('<a class="popupBestServiceLink" href="/turismo/happyclients" target="_blank">Veja as opinões de nossos clientes</a>');
+$('.bestPricelogo').click(function(){
+$('#popupBestPrice').css({
+'top': '173px',
+'left': '767px'
+});
+(($.browser.msie && ($.browser.version < '8')) ? $('#popupBestPrice').show() : $('#popupBestPrice').fadeIn());
+});
+$('#countrySlogan').click(function(){
+(($.browser.msie && ($.browser.version < '8')) ? $('#popupCountries').show() : $('#popupCountries').fadeIn());
+});
+$('#popupCountries .closePopUp, #popupCountries .cancel').click (function(){
+(($.browser.msie && ($.browser.version < '8')) ? $('#popupCountries').hide() : $('#popupCountries').fadeOut());
+});
+$('#popupCountries .submit').click(function() {
+location.href = "http://" + $(".countries").val();
+});
+});
+</script>
+<!--header-js END-->
+<!--footer-js-->
+<script type="text/javascript">
+var facebookOptions ={
+app_id: 129388937111862,
+use_xfbml: true,
+extendPermissions: 'publish_stream',
+locale: 'pt_BR'
+};
+</script>
+<script type="text/javascript" charset="utf-8" src="http://br.staticontent.com/js-versioned/1.14.2/FrameworkJS/pkg/nibblerfooter.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://br.staticontent.com/nibbler-js-versioned/21.0.0/Nibbler/pkg/footer.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+var emailOfferRegister = Despegar.Utils.EmailOfferRegister({language:'pt'});
+$(".inputAndSubmit .submit").click(function(){
+emailOfferRegister.validarEmail($(".inputAndSubmit .offersInput").val(), "submit", 1, "superOferts",".offers");
+});
+$(".inputAndSubmit .offersInput").click(function(){
+$(this).select().addClass('inputFocus');
+});
+$(".share").iconcallpopup({
+items: [{
+iconClass: "sendToFriendIcon",
+containerIcon: "iconContainerSendMail",
+objRelatedClass: "sendmail"
+}, {
+iconClass: "shareTwitterIcon",
+containerIcon: "iconContainerTwitter",
+objRelatedClass: "twitter"
+}, {
+iconClass: "shareFbIcon",
+containerIcon: "iconContainerFacebook",
+objRelatedClass: "facebook"
+},{iconClass: "shareOrkutIcon",containerIcon: "iconContainerOrkut",objRelatedClass: "orkut"}],
+language: "pt",
+withLinksTwitter: false,
+withLinksFacebook: false,
+withLinksOrkut: false,
+shareSprite:'commonSprite',
+newPopUp: true
+});
+var fakeLinks = new linkListCreator();
+var linkList= {
+ulId:"#aboutList",
+section:"home",
+language:"pt",
+linkType:"span",
+links :
+[
+{
+linkText: "Política de privacidade",
+linkRef: "http://www.decolar.com/commercial-web/security/confidentiality",
+linkTarget: "_blank",
+linkClass: "item",
+linkId: ""
+},
+{
+linkText: "Melhor preço garantido",
+linkRef: "http://www.decolar.com/commercial-web/betterprice/termsandconditions",
+linkTarget: "_blank",
+linkClass: "item",
+linkId: ""
+},
+{
+linkText: "Compra segura",
+linkRef: "http://www.decolar.com/commercial-web/security/safebuy",
+linkTarget: "_blank",
+linkClass: "item",
+linkId: ""
+},
+{
+linkText: "Anuncie seu hotel",
+linkRef: "http://www.decolar.com/contents/AdvertiseHotel",
+linkTarget: "_blank",
+linkClass: "item",
+linkId: ""
+},
+{
+linkText: "Programa de afiliados",
+linkRef: "http://www.decolar.com/commercial-web/affiliates",
+linkTarget: "_blank",
+linkClass: "item",
+linkId: ""
+},
+{
+linkText: "Anuncie no Decolar.com",
+linkRef: "http://www.dtravelnetwork.com",
+linkTarget: "_blank",
+linkClass: "item",
+linkId: ""
+},
+{
+linkText: "Contato para a imprensa",
+linkRef: "",
+linkTarget: "_self",
+linkClass: "item pressPopup",
+linkId: ""
+},
+{
+linkText: "Empregos",
+linkRef: "http://www.decolar.bumeran.com.br/aplicantes/",
+linkTarget: "_blank",
+linkClass: "item",
+linkId: ""
+}
+]
+}
+fakeLinks.draw(linkList);
+var fakeLink = new Common.Utils.FakeLinkCreator();
+var website={
+linkText: "Decolar.com Ltda.",
+linkRef: "http://www.decolar.com",
+linkClass: "",
+linkId: ""
+}
+$(".website").append(fakeLink.create(website));
+var consultation={
+linkText: "Consultas y/o denuncias",
+linkRef: "http://www.buenosaires.gov.ar/areas/produccion/def_consumidor/denuncia.php?menu_id=2531",
+linkClass: "",
+linkId: ""
+}
+$(".consultation").append(fakeLink.create(consultation));
+var travelLiderClub={
+linkText: "Travel Lider Club",
+linkRef: "http://www.travelider.com.uy",
+linkClass: "",
+linkId: ""
+}
+$(".travelLiderClub").append(fakeLink.create(travelLiderClub));
+$(".travelLiderClub").append(fakeLink.create(travelLiderClub));
+$(".pressPopup").live('click', function(){
+if(!$("#pressContactPopUp").length)
+Despegar.Common.Footer.PopupPressContact("#footer",$(this),{id : "pressContactPopUp", language : 'pt'});
+$("#pressContactPopUp").show();
+});
+});
+</script>
+<!--footer-js END-->
+<!--socialmedia-js-->
+<script type="text/javascript" charset="utf-8" src="http://br.staticontent.com/nibbler-js-versioned/21.0.0/Nibbler/pkg/social.js"></script>
+<script type="text/javascript">
+$(window).load(function() {
+var social = new Despegar.Common.Social.SocialComponent("pt-BR", "pt_BR");
+social.init();
+});
+</script>
+<!--socialmedia-js END-->
+<script charset="utf-8" src="http://br.staticontent.com/upa/static/upa-tracker.js"></script>
+<script type="text/javascript">
+if (typeof UpaDataTracker != 'undefined') {
+var upaData = {
+pr: "flights",
+fl: "search",
+cc: "br",
+ft: "ROUNDTRIP",
+di: "1,0,0",
+oc: "CWB",
+dc: "MAO",
+co: "2012-07-29",
+ci: "2012-07-14",
+pg: "1",
+so: "FARE_ASCENDING",
+cur: "BRL"
+};
+UpaDataTracker.send(upaData);
+FlightsWeb.Results.Upa.init(upaData);
+}
+</script>
+<!-- SiteCatalyst code version: H.22.1.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script type="text/javascript" src="http://br.staticontent.com/js-versioned/1.10.4/custom/omniture/s_code.js"></script>
+<script type="text/javascript">//<![CDATA[
+var existOmnitureDataColletor = false;
+try {
+var omnitureDataCollector = new Common.OmnitureDataCollector();
+existOmnitureDataColletor = omnitureDataCollector.isAviable();
+} catch (e) {
+/*Do nothing*/
+}
+if (existOmnitureDataColletor) {
+omnitureDataCollector.setPageName({ "flow": "flights", "section": "search", "page": "results" });
+omnitureDataCollector.setType("flight search results");
+omnitureDataCollector.setDomain("www.decolar.com");
+omnitureDataCollector.setTipoProducto("flight");
+omnitureDataCollector.setCodigoCiudadOrigen("CWB");
+omnitureDataCollector.setTipoClase("NA");
+omnitureDataCollector.setCodigoCiudadDestino("MAO");
+omnitureDataCollector.setTipoDeViaje("RoundTrip");
+omnitureDataCollector.setFechaVuelta("2012-07-29");
+omnitureDataCollector.setCodigoCiudadOrigenDestino();
+omnitureDataCollector.setFechaIda("2012-07-14");
+omnitureDataCollector.setCantidadDeAdultos(parseInt(1));
+omnitureDataCollector.setCantidadDeNinios(parseInt(0));
+omnitureDataCollector.setProductSearches();
+omnitureDataCollector.setSearches();
+omnitureDataCollector.setClase();
+omnitureDataCollector.setServer("flights-br09");
+omnitureDataCollector.setABtesting(4, 4, "new", "br: flights: search: results");
+omnitureDataCollector.setABtesting(4, 6, "FARE_ASCENDING", "br: flights: search: results");
+omnitureDataCollector.beforeApply(s);
+s = omnitureDataCollector.applyData(s);
+omnitureDataCollector.afterApply(s);
+FlightsWeb.Results.Omniture.init();
+}
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+s.t()//]]></script>
+<!-- End SiteCatalyst code version: H.22.1. -->
+<img src="/logger.asp?pagina=/shop/flights/search/roundtrip/CWB/MAO/2012-07-14/2012-07-29/1/0/0/&amp;dominio=www.decolar.com&amp;vpais=10&amp;start=06/06/2012 10:29:51&amp;end=06/06/2012 10:29:51&amp;clientIP=186.223.155.221&amp;sPaginaBuscador=&amp;Misc=" border="0" width="1" height="1">
+<!-- e-planning v4 - Comienzo espacio Despegar Vuelos _ Home _ vuelos_chkout -->
+<script language="JavaScript" type="text/javascript"><!--
+var eplDoc = document; var eplLL = false;
+var eS1 = 'us.img.e-planning.net';var eplArgs = { iIF:1,sV:"http://ads.e-planning.net/",vV:"4",sI:"bff1",kVs:{origen:"CWB",destino:"MAO",pais:"BR"}};
+function eplCheckStart() {
+if (document.epl) {
+var e = document.epl;
+if (e.eplReady()) {
+return true;
+} else {
+e.eplInit(eplArgs);
+if (eplArgs.custom) {
+for (var s in eplArgs.custom) {
+document.epl.setCustomAdShow(s, eplArgs.custom[s]);
+}
+}
+return e.eplReady();
+}
+} else {
+if (eplLL) return false;
+if (!document.body) return false; var eS2; var dc = document.cookie; var ci = dc.indexOf("EPLSERVER=");
+if (ci != -1) {
+ci += 10; var ce = dc.indexOf(';', ci);
+if (ce == -1) ce = dc.length;
+eS2 = dc.substring(ci, ce);
+}
+var eIF = document.createElement('IFRAME');
+eIF.src = 'about:blank'; eIF.id = 'epl4iframe'; eIF.name = 'epl4iframe';
+eIF.width=0; eIF.height=0; eIF.style.width='0px'; eIF.style.height='0px';
+eIF.style.display='none'; document.body.appendChild(eIF);
+var eIFD = eIF.contentDocument ? eIF.contentDocument : eIF.document;
+eIFD.open();eIFD.write('<html><head><title>e-planning</title></head><bo'+'dy></bo'+'dy></html>');eIFD.close();
+var s = eIFD.createElement('SCRIPT'); s.src = 'http://' + (eS2?eS2:eS1) +'/layers/epl-41.js';
+eIFD.body.appendChild(s);
+if (!eS2) {
+var ss = eIFD.createElement('SCRIPT');
+ss.src = 'http://ads.e-planning.net/egc/4/ae9a';
+eIFD.body.appendChild(ss);
+}
+eplLL = true;
+return false;
+}
+}
+eplCheckStart();
+function eplSetAd(eID) {
+if (eplCheckStart()) {
+var opts = (eplArgs.sOpts && eplArgs.sOpts[eID]) ? eplArgs.sOpts[eID] : {};
+if (opts.custF) { document.epl.setCustomAdShow(eID,opts.custF); }
+document.epl.setSpace(eID, opts);
+} else {
+setTimeout('eplSetAd("'+eID+'");', 250);
+}
+}
+function eplAD4(eID, opts) {
+document.write('<div id="eplAdDiv'+eID+'"></div>');
+if (!opts) opts = {t:1};
+if (!eplArgs.sOpts) { eplArgs.sOpts = {}; }
+eplArgs.sOpts[eID] = opts;
+eplSetAd(eID);
+}
+//--></script><iframe src="about:blank" id="epl4iframe" name="epl4iframe" width="0" height="0" style="width: 0px; height: 0px; display: none; "></iframe>
+<script>eplAD4("0dfe006e79b49ee4",{t:1,timeout:0,ma:1,custF:null,sd:"bff1!!http://ads.e-planning.net/!!"});</script><div id="eplAdDiv0dfe006e79b49ee4"><a href="http://ads.e-planning.net/ei/3/bff1/0dfe006e79b49ee4?rnd=0.6715612728041425&amp;pb=91f29a656016e980&amp;fi=8a19979e118b1dd9&amp;kw_origen=CWB&amp;kw_destino=MAO&amp;kw_pais=BR" target="_top"><img src="http://us-wdc.img.e-planning.net/esb/4/1/ae9a/f3e20c1918b2dbf9.gif" id="eplad_0dfe006e79b49ee4_91f29a656016e980_image" name="eplad_0dfe006e79b49ee4_91f29a656016e980_image" border="0" width="1" height="1" alt="Origen/Destino"></a></div>
+<!-- e-planning v4 - Fin espacio Despegar Vuelos _ Home _ vuelos_chkout -->
+<!-- Google Code for Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1043149754;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "Cn2BCPizgQIQuue08QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script><img height="1" width="1" border="0" src="http://www.googleadservices.com/pagead/conversion/1043149754/?random=1339021795191&amp;cv=7&amp;fst=1339021795191&amp;num=1&amp;fmt=3&amp;value=0&amp;label=Cn2BCPizgQIQuue08QM&amp;bg=666666&amp;hl=en&amp;guid=ON&amp;u_h=768&amp;u_w=1366&amp;u_ah=744&amp;u_aw=1366&amp;u_cd=24&amp;u_his=1&amp;u_tz=-180&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;url=http%3A//www.decolar.com/shop/flights/search/roundtrip/CWB/MAO/2012-07-14/2012-07-29/1/0/0/&amp;frm=0">
+<noscript></noscript>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/36/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","c0774be053",550869,"MgFSbEFSCkVTWhdeDAtLY0hBWgpRZFAGQEwXAUNNX0cXGVtXB1Ib",0,27,new Date().getTime()])</script>
+
+<div id="results-search-from" style="display: none; position: absolute; z-index: 1002; left: 35px; " class="ac_results"></div><div id="results-search-to" style="display: none; position: absolute; z-index: 1002; left: 35px; " class="ac_results"></div><script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/36/eum/rum-staging.js"></script></body></html>

@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+#table-ranking table{	position:absolute;
+width:100%; margin-top:40px;}
+table, th, td {
+   margin: 0;
+   padding: 0;
+   border:none;
+}
+tr th{ color:#134c80; font-size:14px; background-color: rgba(255,255,255,0.8);padding: 3px 8px 3px 8px; margin-left:3px;}
+tr td{color:#fff; text-align:center; padding: 3px 8px 3px 8px;}
+tbody .alterna-cor{background-color: rgba(21,60,114,0.2);}
+tbody .alterna-cor:hover{background-color: rgba(21,60,114,0.1);}
+tbody tr {background-color: rgba(21,60,114,0.4);}
+tbody tr:hover {background-color: rgba(21,60,114,0.3);}

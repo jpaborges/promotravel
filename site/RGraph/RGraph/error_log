@@ -1,0 +1,8 @@
+[18-Jul-2012 22:08:03] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/promotra/public_html/RGraph/RGraph/grafico.php on line 26
+[18-Jul-2012 22:15:31] PHP Parse error:  syntax error, unexpected T_INC in /home/promotra/public_html/RGraph/RGraph/grafico.php on line 30
+[18-Jul-2012 22:16:03] PHP Parse error:  syntax error, unexpected T_PLUS_EQUAL in /home/promotra/public_html/RGraph/RGraph/grafico.php on line 30
+[18-Jul-2012 22:16:27] PHP Parse error:  syntax error, unexpected '}' in /home/promotra/public_html/RGraph/RGraph/grafico.php on line 31
+[18-Jul-2012 22:20:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/promotra/public_html/RGraph/RGraph/grafico.php:1) in /home/promotra/public_html/RGraph/RGraph/grafico.php on line 13
+[18-Jul-2012 22:20:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/promotra/public_html/RGraph/RGraph/grafico.php:1) in /home/promotra/public_html/RGraph/RGraph/grafico.php on line 13
+[18-Jul-2012 22:39:59] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/promotra/public_html/RGraph/RGraph/grafico.php on line 69
+[18-Jul-2012 22:45:05] PHP Parse error:  syntax error, unexpected '=' in /home/promotra/public_html/RGraph/RGraph/grafico.php on line 45

@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="styles\master.css" />
+<script type="text/javascript" lang="javascript" src="scripts\jquery-1.7.2.min.js"></script>
+<script type="text/jscript"  lang="javascript" src="scripts\animations.js" ></script>
+<title></title>
+</head>
+<body>
+<div id="main-container">
+<div id="logo"><img src="imgs\logo_main.png" /></div>
+<div id="btn-container">
+    <input type="image" class="btn-main" id="btn-quem" src="imgs\btn_quem.png" alt="Botão - Quem  Somos" />
+    <input type="image" class="btn-main" id="btn-acompanhar" onClick="acompanhar_clicked()"
+src="imgs\btn_acompanhar.png" alt="button - Acompanhar Passagem" />
+    <input type="image" class="btn-main" id="btn-fale"src="imgs\btn_fale.png" alt="Botão - Fale Conosco"/>
+    <div id="content" style="display:none;">
+    	<div id="top-content"></div>
+        <div id="content-content">
+            <div id="form">
+                <fieldset class="left-col">
+                    <dl><label class="form-title">Dados da viagem</label></dl>
+                    <dl><label>Somente ida:</label></dl>
+                    <dl><label>Ida e volta:</label></dl>
+                    <dl><label>Origem:</label></dl>
+                    <dl><label>Destino:</label></dl>
+                    <dl><label>Data de ida:</label></dl>
+                    <dl><label>Data de volta:</label></dl>
+                    <dl><label>Preço esperado(R$):</label></dl>
+                    <dl><label class="form-title">Contato</label></dl>
+                    <dl><label>E-mail:</label></dl>
+                </fieldset>
+                <fieldset class="right-col">
+                    <dl></dl>
+                    <dl><input type="radio" name="somenteIda" /></dl>
+                    <dl><input type="radio" name="idaevolta" /></dl>
+                    <dl><input type="text" name="origem" class="input-m"/></dl>
+                    <dl><input type="text" name="destino" class="input-m"/></dl>
+                    <dl><input type="text" name="dataida" class="input-s"/><input type="image" src="imgs\calendar_icon.png"/></dl>
+                    <dl><input type="text" name="datavolta" class="input-s"/><input type="image" src="imgs\calendar_icon.png"/></dl>
+                    <dl><input type="text" name="precoesperado" class="input-s"/></dl>
+                    <dl></dl>
+                    <dl><input type="text" name="email" class="input-l"/></dl>
+                    <dl><div class="btn-acompanhar-passagem">Acompanhar Passagem</div></dl>
+                </fieldset>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+</body>
+</html>

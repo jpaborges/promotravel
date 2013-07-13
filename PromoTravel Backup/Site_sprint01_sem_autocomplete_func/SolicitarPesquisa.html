@@ -1,0 +1,122 @@
+﻿<div id="content">
+    <!-- CONTENT PANEL - BEGIN -->
+    <div class="form">
+        <h1>
+            Dados da viagem</h1>
+            <h2>
+                Os itens com "*"(aster&iacute;stico) são obrigat&oacute;rios!</h2>
+                <div class="list-error radius-10" id="dados-viagem">
+                    <p class="title">
+                        Corrija o(s) seguinte(s) itens(s):</p>
+                        <ol>
+                            <li><b>"Nome do input com erro"</b>: Descição de como resolver o problema (lembrar de
+                                add class input-erro no input).</li>
+                                <!-- <li><b>2. </b><b>"dd/mm/yyyy"</b> e <b>"dd/mm/yyyy"</b>: Esse conjunto de datas já foi inserido.</li>-->
+                            </ol>
+                        </div>
+                        <fieldset class="left-col">
+                            <dl>
+                                <dt>Ida e volta*:</dt></dl>
+                                <dl>
+                                    <dt>Somente ida*:</dt></dl>
+
+                                    <dl>
+                                        <dt>Origem*:</dt></dl>
+                                        <dl>
+                                            <dt>Destino*:</dt></dl>
+                                            <dl>
+                                                <dt>Pre&ccedil;o esperado(R$)*:</dt>
+                                            </dl>
+                                        </fieldset>
+                                        <fieldset class="right-col">
+                                            <dl>
+                                                <dd>
+                                                    <input tabindex="6" type="radio" name="tipoDaViagem" onclick="validate_radio();" checked="checked" value="Ida e Volta" /></dd></dl>
+                                                    <dl>
+                                                        <dd>
+                                                            <input tabindex="5" type="radio" name="tipoDaViagem" onclick="validate_radio();" value="Somente Ida"/></dd>
+                                                        </dl>
+
+                                                        <dl>
+                                                            <dd>
+                                                                <input tabindex="7" type="text" name="origem" id="origem" class="input-l" onblur="validate_city('origem');"/></dd>
+                                                            </dl>
+                                                            <dl>
+                                                                <dd>
+                                                                    <input tabindex="8" type="text" name="destino" id="destino" class="input-l" onblur="validate_city('destino');"/></dd>
+                                                                </dl>
+                                                                <dl>
+                                                                    <dd>
+                                                                        <input tabindex="9" type="text" name="precoesperado" class="input-s" onkeypress="return validate_value(this,'.',',',event);" /></dd>
+                                                                    </dl>
+                                                                </fieldset>
+                                                                <h1>
+                                                                    Poss&iacute;veis Datas</h1>
+                                                                    <div class="list-error radius-10" id="possiveis-datas">
+                                                                        <p class="title">
+                                                                            Corrija o(s) seguinte(s) itens(s):</p>
+                                                                            <ol>
+                                                                                <li><b>"Data de Ida"</b> e <b>"Data de Volta"</b>: Os dois campos de data devem ser
+                                                                                    preenchidos.</li>
+                                                                                    <!-- <li><b>2. </b><b>"dd/mm/yyyy"</b> e <b>"dd/mm/yyyy"</b>: Esse conjunto de datas já foi inserido.</li>-->
+                                                                                </ol>
+                                                                            </div>
+                                                                            <div class="half-col" start="2">
+                                                                                <fieldset>
+                                                                                    <dl>
+                                                                                        <dt>Data de ida*:</dt>
+                                                                                    </dl>
+                                                                                </fieldset>
+                                                                                <fieldset>
+                                                                                    <dl>
+                                                                                        <dd>
+                                                                                            <input tabindex="10" type="text" name="dataIda" class="input-s datepicker" />
+                                                                                            <!--                                <input tabindex="11" type="image" name="calendarIda" src="imgs/calendar_icon.png" alt="Calendário" />-->
+                                                                                        </dd>
+                                                                                    </dl>
+                                                                                </fieldset>
+                                                                            </div>
+                                                                            <div class="half-col top-right-radius-15">
+                                                                                <fieldset>
+                                                                                    <dl>
+                                                                                        <dt>Data de Volta*:</dt>
+                                                                                    </dl>
+                                                                                </fieldset>
+                                                                                <fieldset>
+                                                                                    <dl>
+                                                                                        <dd>
+                                                                                            <input tabindex="13" type="text" id="volta" name="dataVolta" class="input-s datepicker" />
+                                                                                            <!--<input tabindex="14" type="image" name="calendarVolta" src="imgs/calendar_icon.png" alt="Calendário" />-->
+                                                                                        </dd>
+                                                                                    </dl>
+                                                                                </fieldset>
+                                                                            </div>
+                                                                            <div class="button-col-2">
+                                                                                <input type="button" class="btn-blue" value="Inserir Datas" name="inserirDatas" />
+                                                                            </div>
+                                                                            <div class="list-date">
+                                                                                <div class="empty-list">
+                                                                                    Lista Vazia - Digite os campos dispon&iacute;veis a cima e clique em "Inserir Datas"</div>
+                                                                                    <!--<div class="item-date"> <label>Ida:dd/mm/yyyy </label><label>Volta:dd/mm/yyyy </label><input type="image" src="imgs\close_icon.png"/> </div>-->
+                                                                                </div>
+                                                                                <h1>
+                                                                                    Contato</h1>
+                                                                                    <fieldset class="left-col">
+                                                                                        <dl>
+                                                                                            <dt>E-mail*:</dt></dl>
+                                                                                        </fieldset>
+                                                                                        <fieldset class="right-col">
+                                                                                            <dl>
+                                                                                                <dd>
+                                                                                                    <input type="text" name="email" id="email" class="input-l " onblur="validate_email();" alt="e-mail" /></dd>
+                                                                                                </dl>
+                    <!--<dl>
+                        <dt class="erro">E-mail inválido!</dt>
+                    </dl>-->
+                </fieldset>
+            </div>
+            <div class="button-col">
+                <input type="button" class="btn-green" value="Solicitar Pesquisa" />
+            </div>
+            <!-- CONTENT PANEL - END-->
+        </div>
